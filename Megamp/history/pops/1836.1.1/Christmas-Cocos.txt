@@ -1,0 +1,60 @@
+2244 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 11
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 101
+	}
+
+}

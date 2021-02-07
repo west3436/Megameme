@@ -1,0 +1,502 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -3
+	level = 2
+}
+BOH = {
+	value = -12
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = -13
+	level = 2
+}
+ENG = {
+	value = 3
+	military_access = yes
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -12
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -10
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = -8
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -15
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -11
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = -84
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -19
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -20
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -8
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Augustus Hawke"
+	date="1812.6.10"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Alfred Albemarle"
+	date="1812.6.11"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Maximilian Braddock"
+	date="1812.6.14"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Ernest Augustus Cornwallis"
+	date="1813.3.16"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Lawrence Clinton"
+	date="1817.10.9"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=145
+	regiment = {
+		name="1st Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="1st Dover Artillery"
+		type=artillery
+		home=222
+	}
+	regiment = {
+		name="1st Hagerstown Infantry"
+		type=infantry
+		home=221
+	}
+	regiment = {
+		name="1st Manassas Infantry"
+		type=infantry
+		home=212
+	}
+	regiment = {
+		name="1st Washington Artillery"
+		type=artillery
+		home=220
+	}
+}
+
+army = {
+	name="4th Army"
+	location=224
+	regiment = {
+		name="1st Richmond Infantry"
+		type=infantry
+		home=211
+	}
+	regiment = {
+		name="1st Cincinnati Infantry"
+		type=infantry
+		home=182
+	}
+	regiment = {
+		name="2nd Scranton Infantry"
+		type=infantry
+		home=224
+	}
+	regiment = {
+		name="1st Charlotte Infantry"
+		type=infantry
+		home=209
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2945
+	ship = {
+		name="1st Thirteen Colonies Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Thirteen Colonies Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=229
+	ship = {
+		name="2nd Thirteen Colonies Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dover Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Baltimore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Long Island Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=145
+	regiment = {
+		name="1st Fayetteville Infantry"
+		type=infantry
+		home=145
+	}
+	regiment = {
+		name="1st Wichita Infantry"
+		type=infantry
+		home=128
+	}
+	regiment = {
+		name="1st Scranton Infantry"
+		type=infantry
+		home=224
+	}
+	regiment = {
+		name="1st Baltimore Artillery"
+		type=artillery
+		home=219
+	}
+	regiment = {
+		name="1st Fredericksburg Infantry"
+		type=infantry
+		home=213
+	}
+	regiment = {
+		name="1st Harrisburg Infantry"
+		type=infantry
+		home=226
+	}
+	regiment = {
+		name="2nd Dover Artillery"
+		type=artillery
+		home=222
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2955
+	ship = {
+		name="1st Hartford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dover Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=210
+	ship = {
+		name="1st Norfolk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newark Man'o'war"
+		type=manowar
+	}
+}
+

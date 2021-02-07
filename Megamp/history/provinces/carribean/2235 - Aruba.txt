@@ -1,0 +1,5 @@
+owner=CLM
+controller=CLM
+trade_goods = tobacco
+life_rating = 35
+terrain = hills

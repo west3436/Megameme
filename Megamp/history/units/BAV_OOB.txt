@@ -1,0 +1,601 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -120
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 20
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -14
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 184
+	influence_value = 33
+	level = 4
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 41
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -32
+	level = 2
+}
+PRU = {
+	value = -46
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -2
+	level = 2
+}
+SCA = {
+	value = 124
+	influence_value = 18
+	level = 4
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 7
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -26
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Meinhard von Passau"
+	date="1801.1.2"
+	type=land
+	personality="audacious"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Maximilian IV Joseph von Wittelsbach"
+	date="1819.10.3"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Wolfgang von Zentner"
+	date="1812.9.9"
+	type=land
+	personality="resolute"
+	background="cartographer"
+}
+
+leader = {
+	name="Anton Hugenpoet"
+	date="1815.6.6"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Joseph Ludwig Vieregg"
+	date="1820.3.4"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=598
+	regiment = {
+		name="1st Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="1st Konstanz Artillery"
+		type=artillery
+		home=588
+	}
+	regiment = {
+		name="1st Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="1st Ingolstadt Artillery"
+		type=artillery
+		home=601
+	}
+	regiment = {
+		name="1st Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+}
+
+army = {
+	name="Armee von Regensburg"
+	location=587
+	regiment = {
+		name="2nd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Mannheim Infantry"
+		type=infantry
+		home=569
+	}
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="1st Frankfurt Infantry"
+		type=infantry
+		home=564
+	}
+	regiment = {
+		name="1st Karlsruhe Infantry"
+		type=infantry
+		home=586
+	}
+	regiment = {
+		name="2nd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+}
+
+army = {
+	name="Armee von Etschtal"
+	location=600
+	regiment = {
+		name="1st Aschaffenburg Infantry"
+		type=infantry
+		home=596
+	}
+	regiment = {
+		name="1st Ingolstadt Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="1st Sigmaringen Infantry"
+		type=infantry
+		home=594
+	}
+	regiment = {
+		name="1st Wiesbaden Infantry"
+		type=infantry
+		home=565
+	}
+	regiment = {
+		name="2nd Ingolstadt Artillery"
+		type=artillery
+		home=601
+	}
+	regiment = {
+		name="2nd Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="3rd Ingolstadt Artillery"
+		type=artillery
+		home=601
+	}
+	regiment = {
+		name="1st Karlsruhe Artillery"
+		type=artillery
+		home=586
+	}
+	regiment = {
+		name="2nd Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
+		name="2nd Frankfurt Infantry"
+		type=infantry
+		home=564
+	}
+	regiment = {
+		name="4th Munich Artillery"
+		type=artillery
+		home=599
+	}
+}
+
+army = {
+	name="Armee von Oberpfalz"
+	location=613
+	regiment = {
+		name="4th Ingolstadt Artillery"
+		type=artillery
+		home=601
+	}
+}
+
+army = {
+	name="4th Army"
+	location=593
+	regiment = {
+		name="2nd Ingolstadt Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="1st Darmstadt Infantry"
+		type=infantry
+		home=2560
+	}
+	regiment = {
+		name="2nd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="5th Ingolstadt Artillery"
+		type=artillery
+		home=601
+	}
+	regiment = {
+		name="3rd Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="1st Regensburg Artillery"
+		type=artillery
+		home=602
+	}
+	regiment = {
+		name="3rd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Augsburg Artillery"
+		type=artillery
+		home=592
+	}
+}
+
+army = {
+	name="11th Army"
+	location=592
+	regiment = {
+		name="3rd Ingolstadt Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="2nd Darmstadt Infantry"
+		type=infantry
+		home=2560
+	}
+}
+
+army = {
+	name="5th Army"
+	location=600
+	regiment = {
+		name="4th Ingolstadt Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="3rd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="2nd Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="3rd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Freiburg Infantry"
+		type=infantry
+		home=587
+	}
+	regiment = {
+		name="2nd Aschaffenburg Infantry"
+		type=infantry
+		home=596
+	}
+	regiment = {
+		name="3rd Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="1st Gotha Infantry"
+		type=infantry
+		home=562
+	}
+}
+

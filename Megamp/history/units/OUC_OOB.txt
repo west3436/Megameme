@@ -1,0 +1,515 @@
+#Sphere of Influence
+
+ADA = {
+	value = -11
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -7
+	level = 2
+}
+BAV = {
+	value = -6
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -14
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LAC = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = -5
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -1
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = -2
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = -3
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -5
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 40
+	military_access = yes
+	level = 2
+}
+SKA = {
+	value = -10
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = -7
+	level = 2
+}
+SWA = {
+	value = -11
+	level = 2
+}
+TBK = {
+	value = -10
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Mochiyo Ouchi"
+	date="1784.9.2"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Mochiyo Ouchi"
+	date="1804.1.8"
+	type=land
+	personality="coolminded"
+	background="artillerist"
+}
+
+leader = {
+	name="Hiroshige Maeda"
+	date="1819.4.29"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="Higo Suigun"
+	location=1640
+	ship = {
+		name="1st Kagoshima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nemuru Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kagoshima Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Ouchi Gun"
+	location=1641
+	regiment = {
+		name="1st Hiroshima Irregulars"
+		type=irregular
+		home=1638
+	}
+	regiment = {
+		name="1st Matsuyama Artillery"
+		type=artillery
+		home=1666
+	}
+	regiment = {
+		name="1st Nara Artillery"
+		type=artillery
+		home=1658
+	}
+	regiment = {
+		name="1st Matsuyama Irregulars"
+		type=irregular
+		home=1666
+	}
+	regiment = {
+		name="1st Nemuru Artillery"
+		type=artillery
+		home=1644
+	}
+}
+
+navy = {
+	name="Suo Suigun"
+	location=1679
+	ship = {
+		name="1st Toyama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yamagata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Matsue Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hakodate Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kanazawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Iyo Gun"
+	location=1666
+	regiment = {
+		name="1st Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="1st Hiroshima Artillery"
+		type=artillery
+		home=1638
+	}
+	regiment = {
+		name="1st Kochi Irregulars"
+		type=irregular
+		home=1665
+	}
+}
+
+army = {
+	name="Iwami Gun"
+	location=1675
+	regiment = {
+		name="1st Hakodate Irregulars"
+		type=irregular
+		home=1642
+	}
+	regiment = {
+		name="1st Okayama Irregulars"
+		type=irregular
+		home=1639
+	}
+	regiment = {
+		name="1st Utsunomiya Irregulars"
+		type=irregular
+		home=1674
+	}
+	regiment = {
+		name="2nd Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="1st Chiba Artillery"
+		type=artillery
+		home=1650
+	}
+	regiment = {
+		name="2nd Matsuyama Artillery"
+		type=artillery
+		home=1666
+	}
+	regiment = {
+		name="1st Tokushima Irregulars"
+		type=irregular
+		home=1667
+	}
+}
+
+army = {
+	name="Okinawa Gun"
+	location=1643
+	regiment = {
+		name="2nd Okayama Irregulars"
+		type=irregular
+		home=1639
+	}
+	regiment = {
+		name="1st Okayama Artillery"
+		type=artillery
+		home=1639
+	}
+	regiment = {
+		name="2nd Hiroshima Irregulars"
+		type=irregular
+		home=1638
+	}
+}
+
+army = {
+	name="Okinawa Zei"
+	location=1679
+	regiment = {
+		name="1st Kochi Artillery"
+		type=artillery
+		home=1665
+	}
+	regiment = {
+		name="2nd Hiroshima Artillery"
+		type=artillery
+		home=1638
+	}
+}
+
+navy = {
+	name="Ouchi Kaigun"
+	location=2840
+	ship = {
+		name="1st Morioka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Toyama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yamaguchi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Toyama Frigate"
+		type=frigate
+	}
+}
+

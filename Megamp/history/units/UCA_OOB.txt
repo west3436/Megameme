@@ -1,0 +1,457 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -3
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 35
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -2
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 10
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 5
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LAC = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 8
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 25
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 168
+	military_access = yes
+	influence_value = 29
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Fadrique Cabeza de Vaca"
+	date="1800.5.26"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Leopoldo Pimentel"
+	date="1800.12.9"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Claudio de Benavides"
+	date="1805.9.5"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Emilio de Beaumont"
+	date="1816.1.3"
+	type=sea
+	personality="active_p"
+	background="engineer"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2208
+	ship = {
+		name="1st  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st São Luís Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Coro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Coro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Panama City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bluefields Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Essequibo Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=2208
+	regiment = {
+		name="1st Managua Infantry"
+		type=infantry
+		home=2197
+	}
+	regiment = {
+		name="1st Guatemala Infantry"
+		type=infantry
+		home=2186
+	}
+	regiment = {
+		name="1st San Salvador Infantry"
+		type=infantry
+		home=2191
+	}
+	regiment = {
+		name="1st San Miguel Infantry"
+		type=infantry
+		home=2192
+	}
+}
+
+army = {
+	name="Misquito Coast Company"
+	location=2208
+	regiment = {
+		name="1st Quetzaltenango Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="1st San José Infantry"
+		type=infantry
+		home=2201
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2208
+	regiment = {
+		name="1st Comayagua Artillery"
+		type=artillery
+		home=2193
+	}
+	regiment = {
+		name="1st Rivas Artillery"
+		type=artillery
+		home=2198
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2239
+	regiment = {
+		name="1st Yaviza Artillery"
+		type=artillery
+		home=2208
+	}
+	regiment = {
+		name="1st Managua Artillery"
+		type=artillery
+		home=2197
+	}
+	regiment = {
+		name="2nd Managua Artillery"
+		type=artillery
+		home=2197
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2920
+	ship = {
+		name="1st Cartagena de Indias Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yaviza Frigate"
+		type=frigate
+	}
+}
+

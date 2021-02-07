@@ -1,0 +1,10 @@
+owner = JAV
+controller = JAV
+add_core = JAV
+trade_goods = fish
+life_rating = 35
+1860.1.1 = {
+    owner = NET
+    controller = NET
+    colonial = 2
+}

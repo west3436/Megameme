@@ -1,0 +1,9 @@
+owner=MRT
+controller=MRT
+add_core=HND
+add_core=MRT
+add_core=VIJ
+trade_goods = grain
+life_rating = 32
+terrain = farmlands
+naval_base = 2

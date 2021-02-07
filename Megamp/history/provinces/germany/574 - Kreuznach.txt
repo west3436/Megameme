@@ -1,0 +1,8 @@
+owner=RHI
+controller=RHI
+add_core=GER
+add_core=RHI
+trade_goods = iron
+life_rating = 40
+terrain = farmlands
+fort = 1

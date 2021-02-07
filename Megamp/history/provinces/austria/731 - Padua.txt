@@ -1,0 +1,7 @@
+owner=LVN
+controller=LVN
+add_core=ITA
+add_core=LVN
+trade_goods = fruit
+life_rating = 35
+terrain = farmlands

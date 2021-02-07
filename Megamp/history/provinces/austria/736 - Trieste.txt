@@ -1,0 +1,7 @@
+owner=LVN
+controller=LVN
+add_core=LVN
+add_core=ITA
+trade_goods = grain
+life_rating = 35
+terrain = hills

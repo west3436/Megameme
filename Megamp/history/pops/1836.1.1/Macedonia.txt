@@ -1,0 +1,144 @@
+806 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 3695
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 1404
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 220
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 923
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 94713
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 700
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 275
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 3935
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 1836
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 888
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 197
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 590
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 59899
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 975
+	}
+
+	farmers=
+	{
+		culture = aromanian
+		religion = orthodox
+		size= 1775
+	}
+
+}

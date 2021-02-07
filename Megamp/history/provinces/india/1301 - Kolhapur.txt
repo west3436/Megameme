@@ -1,0 +1,8 @@
+owner=MRT
+controller=MRT
+add_core=MRT
+add_core=HND
+add_core=VIJ
+trade_goods = tea
+life_rating = 32
+terrain = hills

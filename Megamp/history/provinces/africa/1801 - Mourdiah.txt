@@ -1,0 +1,7 @@
+
+
+
+add_core = MAS
+trade_goods = wool
+terrain = steppe
+life_rating = 20

@@ -1,0 +1,7 @@
+owner=MNI
+controller=MNI
+add_core=CYI
+add_core=MNI
+trade_goods = tea
+life_rating = 32
+terrain = hills

@@ -1,0 +1,4 @@
+add_core = RWA
+trade_goods = cattle
+terrain = forest
+life_rating = 10

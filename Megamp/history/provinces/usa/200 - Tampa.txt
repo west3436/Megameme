@@ -1,0 +1,8 @@
+owner=X19
+controller=X19
+add_core=X19
+trade_goods = fruit
+life_rating = 25
+terrain = marsh
+naval_base = 2
+is_slave = yes

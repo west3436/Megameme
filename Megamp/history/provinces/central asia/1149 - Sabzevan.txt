@@ -1,0 +1,9 @@
+owner=MUG
+controller=MUG
+add_core=KHO
+add_core=PER
+add_core=MUG
+trade_goods = coal
+life_rating = 35
+terrain = hills
+fort = 1

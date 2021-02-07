@@ -1,0 +1,114 @@
+1097 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	clerks=
+	{
+		culture = melanesian
+		religion = animist
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 204
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 33
+	}
+
+	clerks=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 459
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 11
+	}
+
+	capitalists=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 42
+	}
+
+}

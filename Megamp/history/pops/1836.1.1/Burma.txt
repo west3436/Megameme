@@ -1,0 +1,1299 @@
+1330 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 3220
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 6299
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 910
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 91
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 203
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 882
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 58384
+	}
+
+}
+1331 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 355
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 355
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 9
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 16870
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = protestant
+		size= 174
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = protestant
+		size= 703
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = protestant
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = protestant
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = protestant
+		size= 7501
+	}
+
+}
+1332 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 5734
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 11218
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1620
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 162
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 362
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1570
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 103977
+	}
+
+}
+1333 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 3762
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 4575
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 381
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 46
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1281
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 40685
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 1912
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 2325
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 23
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 651
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 20675
+	}
+
+}
+1334 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 4459
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 5423
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 452
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 54
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1012
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 48729
+	}
+
+}
+1335 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 5835
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 7097
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 591
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 71
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 158
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1987
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 63117
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 2965
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 3607
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 36
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 1010
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 32075
+	}
+
+}
+1336 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1116
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 2715
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 27
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 507
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 25499
+	}
+
+}
+1337 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 2177
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 5294
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 53
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 989
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 49724
+	}
+
+}
+1338 = {
+	soldiers=
+	{
+		culture = shan
+		religion = animist
+		size= 744
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = animist
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = animist
+		size= 12356
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 5099
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 8722
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 727
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 87
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 155
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 1628
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 74643
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = mahayana
+		size= 541
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = mahayana
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = mahayana
+		size= 5
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = mahayana
+		size= 101
+	}
+
+}
+1339 = {
+	soldiers=
+	{
+		culture = manipuri
+		religion = animist
+		size= 260
+	}
+
+	artisans=
+	{
+		culture = manipuri
+		religion = animist
+		size= 911
+	}
+
+	clergymen=
+	{
+		culture = manipuri
+		religion = animist
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = manipuri
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = manipuri
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = manipuri
+		religion = animist
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = manipuri
+		religion = animist
+		size= 11730
+	}
+
+	soldiers=
+	{
+		culture = manipuri
+		religion = theravada
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = manipuri
+		religion = theravada
+		size= 2817
+	}
+
+	clergymen=
+	{
+		culture = manipuri
+		religion = theravada
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = manipuri
+		religion = theravada
+		size= 38
+	}
+
+	officers=
+	{
+		culture = manipuri
+		religion = theravada
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = manipuri
+		religion = theravada
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = manipuri
+		religion = theravada
+		size= 10173
+	}
+
+}
+1340 = {
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 3570
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 4343
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 44
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 810
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 39032
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1458
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1773
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 18
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 331
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 15930
+	}
+
+}
+1341 = {
+	soldiers=
+	{
+		culture = kachin
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = animist
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = animist
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = animist
+		size= 25072
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 443
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = theravada
+		size= 1536
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = theravada
+		size= 288
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 34
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 19478
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = gelugpa
+		size= 103
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = gelugpa
+		size= 476
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = gelugpa
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = gelugpa
+		size= 11
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = gelugpa
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = gelugpa
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = gelugpa
+		size= 4360
+	}
+
+}
+1342 = {
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 5520
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 6713
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 559
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 67
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 1253
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 60333
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 1236
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = theravada
+		size= 1503
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = theravada
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 15
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 281
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 13507
+	}
+
+}
+1343 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 2314
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1653
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 269
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 41
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 347
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 36606
+	}
+
+}
+1344 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 4553
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 3252
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 529
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 114
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 683
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 72007
+	}
+
+}
+1345 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 879
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 3954
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 62
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 430
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 38258
+	}
+
+}

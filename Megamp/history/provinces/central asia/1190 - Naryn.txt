@@ -1,0 +1,9 @@
+owner=XIN
+controller=XIN
+add_core=XIN
+add_core=TKS
+trade_goods = grain
+life_rating = 35
+terrain = mountain
+colonial=2
+fort = 1

@@ -1,0 +1,26 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=ENL
+trade_goods = grain
+life_rating = 45
+terrain = farmlands
+fort = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

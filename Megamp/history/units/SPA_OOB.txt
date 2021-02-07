@@ -1,0 +1,1054 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -44
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -117
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 169
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -105
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 95
+	influence_value = 11
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -164
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 22
+	level = 2
+}
+LAC = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 22
+	level = 2
+}
+MEX = {
+	value = 149
+	military_access = yes
+	influence_value = 74
+	level = 5
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+MUG = {
+	value = 2
+	level = 2
+}
+NAP = {
+	value = 162
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 7
+	level = 2
+}
+OUC = {
+	value = 7
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 37
+	level = 2
+}
+PEG = {
+	value = 25
+	level = 2
+}
+ECU = {
+	value = 163
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+PLC = {
+	value = -75
+	level = 2
+}
+PRU = {
+	value = 82
+	influence_value = 8
+	level = 4
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = -44
+	level = 2
+}
+RUS = {
+	value = -100
+	level = 2
+}
+SCA = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 1
+	level = 2
+}
+SNA = {
+	value = 75
+	influence_value = 6
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 22
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -5
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 38
+	level = 2
+}
+X16 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+UCA = {
+	value = 151
+	military_access = yes
+	influence_value = 75
+	level = 5
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 160
+	military_access = yes
+	influence_value = 77
+	level = 5
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gonzalo de Borbón"
+	date="1776.8.10"
+	type=land
+	personality="efficient"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ignacio Cagigal de la Vega"
+	date="1797.10.17"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Manuel Cagigal de la Vega"
+	date="1797.10.17"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Gonzalo de Egmont"
+	date="1799.11.19"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Fadrique Sastre"
+	date="1802.1.20"
+	type=land
+	personality="au_fait"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Emilio Fonseca"
+	date="1815.11.20"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Pelayo Folch de Cardona"
+	date="1819.11.4"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="Guardia Real"
+	location=521
+	regiment = {
+		name="1st Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="1st Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="1st Almería Infantry"
+		type=infantry
+		home=515
+	}
+	regiment = {
+		name="2nd Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="1st Ciudad Real Artillery"
+		type=artillery
+		home=491
+	}
+	regiment = {
+		name="1st Palermo Artillery"
+		type=artillery
+		home=762
+	}
+	regiment = {
+		name="1st Córdoba Artillery"
+		type=artillery
+		home=510
+	}
+	regiment = {
+		name="1st Salamanca Artillery"
+		type=artillery
+		home=482
+	}
+	regiment = {
+		name="1st Badajoz Artillery"
+		type=artillery
+		home=484
+	}
+	regiment = {
+		name="3rd Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="2nd Bilbao Artillery"
+		type=artillery
+		home=492
+	}
+}
+
+army = {
+	name="Ejército de Valencia"
+	location=511
+	regiment = {
+		name="1st Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+	regiment = {
+		name="1st Palermo Infantry"
+		type=infantry
+		home=762
+	}
+	regiment = {
+		name="1st La Coruña Infantry"
+		type=infantry
+		home=474
+	}
+	regiment = {
+		name="3rd Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="1st Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="1st Oporto Artillery"
+		type=artillery
+		home=518
+	}
+	regiment = {
+		name="1st Valladolid Artillery"
+		type=artillery
+		home=480
+	}
+	regiment = {
+		name="2nd Valladolid Artillery"
+		type=artillery
+		home=480
+	}
+	regiment = {
+		name="2nd Oporto Artillery"
+		type=artillery
+		home=518
+	}
+	regiment = {
+		name="1st Granada Artillery"
+		type=artillery
+		home=513
+	}
+	regiment = {
+		name="1st Oviedo Artillery"
+		type=artillery
+		home=475
+	}
+}
+
+army = {
+	name="Ejército de Tangiers"
+	location=501
+	regiment = {
+		name="1st Huelva Infantry"
+		type=infantry
+		home=511
+	}
+	regiment = {
+		name="2nd Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="2nd La Coruña Infantry"
+		type=infantry
+		home=474
+	}
+	regiment = {
+		name="1st Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="2nd Palermo Infantry"
+		type=infantry
+		home=762
+	}
+	regiment = {
+		name="2nd Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+	regiment = {
+		name="2nd Almería Infantry"
+		type=infantry
+		home=515
+	}
+	regiment = {
+		name="1st Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="3rd Palermo Infantry"
+		type=infantry
+		home=762
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=518
+	regiment = {
+		name="1st Albacete Infantry"
+		type=infantry
+		home=508
+	}
+	regiment = {
+		name="1st Évora Infantry"
+		type=infantry
+		home=525
+	}
+	regiment = {
+		name="1st Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="2nd Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="1st Teruel Infantry"
+		type=infantry
+		home=497
+	}
+	regiment = {
+		name="1st Abrantes Artillery"
+		type=artillery
+		home=523
+	}
+	regiment = {
+		name="1st León Artillery"
+		type=artillery
+		home=477
+	}
+	regiment = {
+		name="2nd León Artillery"
+		type=artillery
+		home=477
+	}
+	regiment = {
+		name="2nd Granada Artillery"
+		type=artillery
+		home=513
+	}
+	regiment = {
+		name="1st Setubal Artillery"
+		type=artillery
+		home=524
+	}
+	regiment = {
+		name="3rd Granada Artillery"
+		type=artillery
+		home=513
+	}
+}
+
+army = {
+	name="Ejército de Cantabria"
+	location=504
+	regiment = {
+		name="1st Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="2nd Albacete Infantry"
+		type=infantry
+		home=508
+	}
+	regiment = {
+		name="2nd Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="2nd Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Alicante Artillery"
+		type=artillery
+		home=505
+	}
+	regiment = {
+		name="1st Valencia Artillery"
+		type=artillery
+		home=503
+	}
+	regiment = {
+		name="1st Castellón Artillery"
+		type=artillery
+		home=504
+	}
+	regiment = {
+		name="3rd León Artillery"
+		type=artillery
+		home=477
+	}
+	regiment = {
+		name="1st Jaén Artillery"
+		type=artillery
+		home=516
+	}
+}
+
+navy = {
+	name="Trade Fleet"
+	location=2914
+	ship = {
+		name="1st Casablanca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tarragona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ifni Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Ejército de Madrid"
+	location=487
+	regiment = {
+		name="2nd Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="1st Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="1st Sigüenza Infantry"
+		type=infantry
+		home=488
+	}
+	regiment = {
+		name="1st Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="1st Murcia Infantry"
+		type=infantry
+		home=507
+	}
+	regiment = {
+		name="1st Beja Artillery"
+		type=artillery
+		home=526
+	}
+	regiment = {
+		name="1st La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="1st Huesca Artillery"
+		type=artillery
+		home=496
+	}
+	regiment = {
+		name="2nd Jaén Artillery"
+		type=artillery
+		home=516
+	}
+	regiment = {
+		name="3rd Jaén Artillery"
+		type=artillery
+		home=516
+	}
+}
+
+army = {
+	name="1st Army"
+	location=498
+	regiment = {
+		name="1st Jaén Infantry"
+		type=infantry
+		home=516
+	}
+	regiment = {
+		name="1st Salamanca Infantry"
+		type=infantry
+		home=482
+	}
+	regiment = {
+		name="2nd Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="3rd Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="3rd Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="1st Vila Real Artillery"
+		type=artillery
+		home=519
+	}
+	regiment = {
+		name="1st Toledo Artillery"
+		type=artillery
+		home=489
+	}
+	regiment = {
+		name="1st Zaragoza Artillery"
+		type=artillery
+		home=495
+	}
+	regiment = {
+		name="2nd Castellón Artillery"
+		type=artillery
+		home=504
+	}
+	regiment = {
+		name="1st Bilbao Artillery"
+		type=artillery
+		home=492
+	}
+}
+
+navy = {
+	name="Transports"
+	location=498
+	ship = {
+		name="1st Wujda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cádiz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Barcelona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gerona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Agadir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Perpignan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oporto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Perpignan Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Royal Armada"
+	location=474
+	ship = {
+		name="1st Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Santander Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gerona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Santander Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gibraltar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Setubal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Vigo Man'o'war"
+		type=manowar
+	}
+}
+

@@ -1,0 +1,9 @@
+owner=MUG
+controller=MUG
+add_core=KAZ
+add_core=TKS
+add_core=MUG
+trade_goods = wool
+life_rating = 35
+terrain = steppe
+fort = 1

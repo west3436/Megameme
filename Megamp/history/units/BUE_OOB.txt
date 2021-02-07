@@ -1,0 +1,384 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -12
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -3
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 4
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -7
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = -2
+	level = 2
+}
+FRA = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 36
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -24
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Firmin de la Bretonnière"
+	date="1797.6.28"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="François de Saint-Chamond"
+	date="1815.6.13"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=2352
+	regiment = {
+		name="1st Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Trenque Lauquen Infantry"
+		type=infantry
+		home=2353
+	}
+	regiment = {
+		name="1st Valdivia Cavalry"
+		type=cavalry
+		home=2328
+	}
+	regiment = {
+		name="1st Cauquenes Artillery"
+		type=artillery
+		home=2330
+	}
+	regiment = {
+		name="1st Azul Infantry"
+		type=infantry
+		home=2350
+	}
+	regiment = {
+		name="1st Osorno Cavalry"
+		type=cavalry
+		home=2332
+	}
+	regiment = {
+		name="1st Mar del Plata Artillery"
+		type=artillery
+		home=2352
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2348
+	ship = {
+		name="1st Río Grande Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Río Grande Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Río Grande Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Río Gallegos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Río Grande Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Río Grande Frigate"
+		type=frigate
+	}
+}
+

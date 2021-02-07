@@ -1,0 +1,186 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 239
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3855
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 2654
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 53
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 11571
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 241
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 1067
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = protestant
+		size= 3
+	}
+
+}

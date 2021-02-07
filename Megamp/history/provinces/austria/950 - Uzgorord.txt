@@ -1,0 +1,9 @@
+owner=HUN
+controller=HUN
+add_core=HUN
+add_core=KIE
+add_core=UKR
+trade_goods = coal
+life_rating = 35
+terrain = mountain
+fort = 1

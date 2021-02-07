@@ -1,0 +1,7 @@
+owner=X01
+controller=X01
+add_core=MCK
+add_core=X01
+trade_goods = coal
+life_rating = 32
+terrain = hills

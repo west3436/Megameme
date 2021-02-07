@@ -1,0 +1,9 @@
+owner = SCA
+controller = SCA
+add_core = ZAN
+trade_goods = precious_metal
+life_rating = 40
+1861.1.1 = {
+    owner = ZAN
+    controller = ZAN
+}

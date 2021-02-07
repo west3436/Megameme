@@ -1,0 +1,9 @@
+owner=MUG
+controller=MUG
+add_core=KDS
+add_core=MUG
+add_core=PER
+trade_goods = cotton
+life_rating = 35
+terrain = plains
+fort = 1

@@ -1,0 +1,9 @@
+#Sphere of Influence
+PRU = {
+	value = 200
+	level = 2
+}
+
+#Leaders
+
+#Armies

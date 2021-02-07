@@ -1,0 +1,811 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 46
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 103
+	influence_value = 13
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -3
+	level = 2
+}
+CRB = {
+	value = 12
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -7
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -31
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -8
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 2
+	level = 2
+}
+NAP = {
+	value = -24
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 257
+	influence_value = 1
+	level = 4
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 30
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -91
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 104
+	influence_value = 13
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = -10
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="André de Meneses"
+	date="1805.9.6"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Joaquim de Ataíde"
+	date="1805.9.9"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+leader = {
+	name="Alexandre de Noronha"
+	date="1805.12.2"
+	type=sea
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="António Eanes"
+	date="1808.11.24"
+	type=sea
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Inácio Coelho"
+	date="1812.5.27"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2431
+	ship = {
+		name="1st Campos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aracaju Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salvador de Bahia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cayenne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Teresina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Paraíba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st São Luís Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Porto Seguro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Teresina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Aracaju Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Natal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Porto Seguro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Campos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Salvador de Bahia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Natal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd São Luís Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd São Luís Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Campos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Paraíba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vitória Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Salvador de Bahia Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2437
+	regiment = {
+		name="1st Palmas Artillery"
+		type=artillery
+		home=2423
+	}
+	regiment = {
+		name="1st Copiapó Artillery"
+		type=artillery
+		home=2322
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=2344
+	regiment = {
+		name="1st Rio de Janeiro Infantry"
+		type=infantry
+		home=2447
+	}
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="2nd Rio de Janeiro Infantry"
+		type=infantry
+		home=2447
+	}
+	regiment = {
+		name="2nd La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="2nd Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Santiago Infantry"
+		type=infantry
+		home=2324
+	}
+	regiment = {
+		name="1st Ouro Preto Infantry"
+		type=infantry
+		home=2441
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2987
+	ship = {
+		name="1st Mérida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Natal Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cayenne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Belém Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="31st Army"
+	location=2444
+	regiment = {
+		name="1st Oeiras Infantry"
+		type=infantry
+		home=2427
+	}
+	regiment = {
+		name="1st Santiago Artillery"
+		type=artillery
+		home=2324
+	}
+	regiment = {
+		name="1st Belém Artillery"
+		type=artillery
+		home=2410
+	}
+	regiment = {
+		name="1st Ouro Preto Artillery"
+		type=artillery
+		home=2441
+	}
+	regiment = {
+		name="1st Oeiras Artillery"
+		type=artillery
+		home=2427
+	}
+	regiment = {
+		name="3rd Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Dourados Infantry"
+		type=infantry
+		home=2416
+	}
+	regiment = {
+		name="1st Salvador de Bahia Artillery"
+		type=artillery
+		home=2436
+	}
+}
+
+army = {
+	name="Silver Company"
+	location=2423
+	regiment = {
+		name="1st Belém Infantry"
+		type=infantry
+		home=2410
+	}
+	regiment = {
+		name="2nd Belém Infantry"
+		type=infantry
+		home=2410
+	}
+	regiment = {
+		name="1st Salvador de Bahia Infantry"
+		type=infantry
+		home=2436
+	}
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="3rd La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st São Paulo Infantry"
+		type=infantry
+		home=2450
+	}
+	regiment = {
+		name="1st Porto Alegre Infantry"
+		type=infantry
+		home=2463
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2983
+	ship = {
+		name="1st Greenville Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Saint Thomas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Matamoros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Montevideo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Maceió Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Paraíba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fortaleza Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2922
+	ship = {
+		name="1st Melo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fortaleza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Aracaju Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="10th Army"
+	location=2408
+	regiment = {
+		name="1st Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="1st Vila Boa Artillery"
+		type=artillery
+		home=2421
+	}
+	regiment = {
+		name="1st Chapada Artillery"
+		type=artillery
+		home=2425
+	}
+}
+
+army = {
+	name="28th Army"
+	location=2344
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="1st Iguatemi Artillery"
+		type=artillery
+		home=2420
+	}
+	regiment = {
+		name="2nd Chapada Artillery"
+		type=artillery
+		home=2425
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2388
+	regiment = {
+		name="1st Cabrobo Artillery"
+		type=artillery
+		home=2433
+	}
+	regiment = {
+		name="1st Crato Artillery"
+		type=artillery
+		home=2430
+	}
+	regiment = {
+		name="1st Tarija Artillery"
+		type=artillery
+		home=2315
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2345
+	ship = {
+		name="1st Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Campos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Castellón Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Belém Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cayenne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Teresina Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Calama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Teresina Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Porto Seguro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Porto Seguro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vitória Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Essequibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rio de Janeiro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Fortaleza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+}
+

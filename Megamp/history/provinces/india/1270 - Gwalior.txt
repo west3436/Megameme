@@ -1,0 +1,8 @@
+owner=IND
+controller=IND
+add_core=HND
+add_core=MAW
+add_core=IND
+trade_goods = dye
+life_rating = 32
+terrain = plains

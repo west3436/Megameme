@@ -1,0 +1,9 @@
+owner=MUG
+controller=MUG
+add_core=ARD
+add_core=KDS
+add_core=PER
+add_core=MUG
+trade_goods = wool
+life_rating = 35
+terrain = mountain

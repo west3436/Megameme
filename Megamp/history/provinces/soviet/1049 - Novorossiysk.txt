@@ -1,0 +1,9 @@
+owner=TUR
+controller=TUR
+add_core=CIR
+add_core=DKU
+trade_goods = grain
+life_rating = 35
+terrain = steppe
+naval_base = 1
+fort = 1

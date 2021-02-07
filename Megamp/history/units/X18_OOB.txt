@@ -1,0 +1,415 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -3
+	level = 2
+}
+BOH = {
+	value = -12
+	level = 2
+}
+BRZ = {
+	value = -134
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = -13
+	level = 2
+}
+ENG = {
+	value = 74
+	military_access = yes
+	influence_value = 6
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -12
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -10
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 25
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -15
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -11
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -8
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="John Norfolk"
+	date="1810.10.17"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Archibald Moore"
+	date="1812.6.7"
+	type=sea
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="James Leicester"
+	date="1818.5.23"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=2472
+	regiment = {
+		name="1st Port Macquarie Infantry"
+		type=infantry
+		home=2470
+	}
+	regiment = {
+		name="1st Brisbane Infantry"
+		type=infantry
+		home=2483
+	}
+	regiment = {
+		name="1st Broken Hill Cavalry"
+		type=cavalry
+		home=2475
+	}
+	regiment = {
+		name="1st Sydney Artillery"
+		type=artillery
+		home=2468
+	}
+	regiment = {
+		name="1st Moree Infantry"
+		type=infantry
+		home=2474
+	}
+	regiment = {
+		name="1st Cooktown Cavalry"
+		type=cavalry
+		home=2488
+	}
+	regiment = {
+		name="1st Palmerston Artillery"
+		type=artillery
+		home=2505
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2506
+	ship = {
+		name="1st Perth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rangoon Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2860
+	ship = {
+		name="2nd Christchurch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Miyazaki Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2505
+	ship = {
+		name="1st Nelson Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Geraldton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tauranga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tauranga Clipper Transport"
+		type=clipper_transport
+	}
+}
+

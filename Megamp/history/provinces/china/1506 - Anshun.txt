@@ -1,0 +1,10 @@
+owner=MNI
+controller=MNI
+add_core=CDL
+add_core=CHI
+add_core=MNI
+add_core=MNG
+trade_goods = tea
+life_rating = 32
+terrain = jungle
+fort = 1

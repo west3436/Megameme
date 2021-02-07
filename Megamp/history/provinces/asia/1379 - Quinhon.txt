@@ -1,0 +1,8 @@
+owner=CAM
+controller=CAM
+add_core=CAM
+add_core=CHA
+add_core=IDO
+trade_goods = silk
+life_rating = 30
+terrain = plains

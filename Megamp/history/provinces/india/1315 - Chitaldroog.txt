@@ -1,0 +1,10 @@
+owner=MYS
+controller=MYS
+add_core=HND
+add_core=MYS
+add_core=VIJ
+trade_goods = tea
+life_rating = 32
+terrain = hills
+colonial=2
+fort = 1

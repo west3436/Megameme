@@ -1,0 +1,549 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 259
+	military_access = yes
+	influence_value = 72
+	level = 5
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 168
+	military_access = yes
+	influence_value = 49
+	level = 5
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = -8
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -15
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 25
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LAC = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 194
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 216
+	military_access = yes
+	influence_value = 61
+	level = 5
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = -94
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 21
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = -100
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 192
+	influence_value = 35
+	level = 4
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 7
+	level = 2
+}
+SUK = {
+	value = 117
+	influence_value = 16
+	level = 3
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -10
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = -9
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 353
+	military_access = yes
+	influence_value = 95
+	level = 5
+}
+
+#Leaders
+leader = {
+	name="Minyekyawswa III Lwee"
+	date="1813.5.3"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Minhlange Nyaungshwe"
+	date="1803.3.4"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Thohanbwa Lwee"
+	date="1813.5.5"
+	type=land
+	personality="efficient"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sao Mong Hsam Kyithi Bansan"
+	date="1805.4.30"
+	type=sea
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Ai Wu Hsa Theinni"
+	date="1813.5.7"
+	type=land
+	personality="hellbent"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Sao Hkam Tao Lwemaw"
+	date="1815.5.6"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sao Awk Lègya"
+	date="1818.11.8"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1256
+	ship = {
+		name="1st Zhanjiang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chaozhou Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1585
+	regiment = {
+		name="1st Jian Irregulars"
+		type=irregular
+		home=1547
+	}
+	regiment = {
+		name="1st Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+	regiment = {
+		name="1st Puer Artillery"
+		type=artillery
+		home=1603
+	}
+}
+
+army = {
+	name="25th Army"
+	location=1477
+	regiment = {
+		name="1st Guilin Irregulars"
+		type=irregular
+		home=1503
+	}
+	regiment = {
+		name="1st Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="1st Taunggyi Irregulars"
+		type=irregular
+		home=1338
+	}
+	regiment = {
+		name="1st Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="1st Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+	regiment = {
+		name="2nd Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+	regiment = {
+		name="1st Chongqing Artillery"
+		type=artillery
+		home=1577
+	}
+	regiment = {
+		name="2nd Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="3rd Puer Artillery"
+		type=artillery
+		home=1603
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1338
+	regiment = {
+		name="1st Yibin Irregulars"
+		type=irregular
+		home=1585
+	}
+	regiment = {
+		name="1st Putao Irregulars"
+		type=irregular
+		home=1341
+	}
+	regiment = {
+		name="2nd Jian Irregulars"
+		type=irregular
+		home=1547
+	}
+	regiment = {
+		name="2nd Yibin Irregulars"
+		type=irregular
+		home=1585
+	}
+	regiment = {
+		name="1st Guiyang Artillery"
+		type=artillery
+		home=1505
+	}
+	regiment = {
+		name="3rd Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+	regiment = {
+		name="1st Myitkyina Artillery"
+		type=artillery
+		home=1342
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2814
+	ship = {
+		name="1st Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wenzhou Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1342
+	regiment = {
+		name="2nd Taunggyi Irregulars"
+		type=irregular
+		home=1338
+	}
+	regiment = {
+		name="1st Puer Irregulars"
+		type=irregular
+		home=1603
+	}
+	regiment = {
+		name="2nd Puer Irregulars"
+		type=irregular
+		home=1603
+	}
+	regiment = {
+		name="2nd Puer Artillery"
+		type=artillery
+		home=1603
+	}
+	regiment = {
+		name="1st Jian Artillery"
+		type=artillery
+		home=1547
+	}
+	regiment = {
+		name="1st Kyaukse Irregulars"
+		type=irregular
+		home=1335
+	}
+}
+

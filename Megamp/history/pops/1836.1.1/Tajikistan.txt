@@ -1,0 +1,202 @@
+1201 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2821
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 7052
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 756
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 45
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 635
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 38953
+	}
+
+}
+1207 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 598
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1196
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 449
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 51
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 27316
+	}
+
+}
+1208 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = sunni
+		size= 774
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = sunni
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 9929
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = orthodox
+		size= 238
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = orthodox
+		size= 2444
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = orthodox
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = orthodox
+		size= 31
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = orthodox
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = orthodox
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = orthodox
+		size= 8815
+	}
+
+}

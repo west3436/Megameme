@@ -1,0 +1,6 @@
+owner = TUR
+controller = TUR
+add_core = TRI
+colonial = 2
+trade_goods = wool
+life_rating = 5

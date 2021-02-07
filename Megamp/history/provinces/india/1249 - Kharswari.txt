@@ -1,0 +1,9 @@
+owner=GRJ
+controller=GRJ
+add_core=GRJ
+add_core=HND
+add_core=NGP
+trade_goods = coal
+life_rating = 28
+terrain = plains
+colonial=2

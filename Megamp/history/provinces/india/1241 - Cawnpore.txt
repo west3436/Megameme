@@ -1,0 +1,7 @@
+owner=RJP
+controller=RJP
+add_core=HND
+add_core=RJP
+trade_goods = dye
+life_rating = 32
+terrain = farmlands

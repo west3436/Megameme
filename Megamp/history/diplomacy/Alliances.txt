@@ -1,0 +1,136 @@
+alliance=
+{
+	first="BRZ"
+	second="PAP"
+	start_date="1815.10.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PRU"
+	second="FRA"
+	start_date="1795.1.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PRU"
+	second="SCA"
+	start_date="1804.9.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PLC"
+	second="RUS"
+	start_date="1794.4.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="BAV"
+	start_date="1793.10.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="SVY"
+	start_date="1807.6.20"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BAV"
+	second="SCA"
+	start_date="1751.7.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SPA"
+	second="SCA"
+	start_date="1784.3.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SPA"
+	second="PRU"
+	start_date="1805.12.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="RUS"
+	second="SCA"
+	start_date="1794.5.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PEG"
+	second="MNI"
+	start_date="1744.9.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SUK"
+	second="LNA"
+	start_date="1820.9.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="YUE"
+	second="SUK"
+	start_date="1816.12.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVA"
+	second="PEG"
+	start_date="1793.4.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVA"
+	second="ASM"
+	start_date="1802.9.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PSA"
+	second="PEG"
+	start_date="1748.2.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X01"
+	second="X03"
+	start_date="1809.8.18"
+	end_date="1936.1.1"
+}
+

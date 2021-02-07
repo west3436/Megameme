@@ -1,0 +1,6 @@
+owner=MNI
+controller=MNI
+add_core=TIB
+trade_goods = timber
+life_rating = 32
+terrain = mountain

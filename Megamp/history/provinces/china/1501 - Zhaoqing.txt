@@ -1,0 +1,11 @@
+owner=MNI
+controller=MNI
+add_core=CHI
+add_core=MNG
+add_core=MNI
+add_core=YUE
+trade_goods = timber
+life_rating = 32
+terrain = plains
+colonial=2
+fort = 1

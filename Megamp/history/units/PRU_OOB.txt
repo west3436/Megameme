@@ -1,0 +1,748 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -3
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 14
+	level = 2
+}
+BOH = {
+	value = 174
+	military_access = yes
+	influence_value = 81
+	level = 5
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = -12
+	level = 2
+}
+DTT = {
+	value = 168
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+ENG = {
+	value = -21
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 131
+	influence_value = 20
+	level = 4
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = -78
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 77
+	influence_value = 6
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -61
+	level = 2
+}
+NZL = {
+	value = 22
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 31
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -184
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -85
+	level = 2
+}
+SCA = {
+	value = 105
+	influence_value = 13
+	level = 4
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 19
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 158
+	influence_value = 27
+	level = 4
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -48
+	level = 2
+}
+VEN = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 101
+	military_access = yes
+	influence_value = 62
+	level = 5
+}
+X09 = {
+	value = 127
+	military_access = yes
+	influence_value = 69
+	level = 5
+}
+USA = {
+	value = -13
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = -12
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Emil Linkendorf"
+	date="1780.1.27"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Werner Knobelsdorf"
+	date="1794.10.30"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Kaspar von Seel"
+	date="1811.2.4"
+	type=land
+	personality="au_fait"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Florian Kreytz"
+	date="1815.1.9"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="Ost See Squadron"
+	location=679
+	ship = {
+		name="4th Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Köslin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bremen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Königsberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Köslin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bremen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Königliche Armee"
+	location=630
+	regiment = {
+		name="1st Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="2nd Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="1st Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="1st Halle Artillery"
+		type=artillery
+		home=556
+	}
+	regiment = {
+		name="1st Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+	regiment = {
+		name="2nd Stendal Infantry"
+		type=infantry
+		home=557
+	}
+	regiment = {
+		name="3rd Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+}
+
+army = {
+	name="6th Army"
+	location=680
+	regiment = {
+		name="1st Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Dresden Infantry"
+		type=infantry
+		home=558
+	}
+	regiment = {
+		name="1st Erfurt Infantry"
+		type=infantry
+		home=554
+	}
+	regiment = {
+		name="1st Lübeck Artillery"
+		type=artillery
+		home=530
+	}
+	regiment = {
+		name="1st Stettin Artillery"
+		type=artillery
+		home=546
+	}
+	regiment = {
+		name="1st Hanover Infantry"
+		type=infantry
+		home=534
+	}
+}
+
+army = {
+	name="1st Army"
+	location=585
+	regiment = {
+		name="1st Küstrin Infantry"
+		type=infantry
+		home=681
+	}
+	regiment = {
+		name="1st Stendal Infantry"
+		type=infantry
+		home=557
+	}
+	regiment = {
+		name="1st Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="1st Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="1st Küstrin Artillery"
+		type=artillery
+		home=681
+	}
+	regiment = {
+		name="2nd Halle Infantry"
+		type=infantry
+		home=556
+	}
+}
+
+army = {
+	name="19th Army"
+	location=554
+	regiment = {
+		name="1st Schwerin Infantry"
+		type=infantry
+		home=544
+	}
+	regiment = {
+		name="1st Münster Infantry"
+		type=infantry
+		home=581
+	}
+	regiment = {
+		name="1st Magdeburg Infantry"
+		type=infantry
+		home=553
+	}
+	regiment = {
+		name="1st Chemnitz Artillery"
+		type=artillery
+		home=560
+	}
+	regiment = {
+		name="1st Dortmund Artillery"
+		type=artillery
+		home=580
+	}
+	regiment = {
+		name="3rd Halle Infantry"
+		type=infantry
+		home=556
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=681
+	regiment = {
+		name="2nd Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="2nd Küstrin Infantry"
+		type=infantry
+		home=681
+	}
+	regiment = {
+		name="1st Cottbus Infantry"
+		type=infantry
+		home=552
+	}
+	regiment = {
+		name="2nd Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+	regiment = {
+		name="1st Pritzwalk Artillery"
+		type=artillery
+		home=551
+	}
+	regiment = {
+		name="5th Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Berlin Artillery"
+		type=artillery
+		home=549
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=692
+	regiment = {
+		name="1st Swinemünde Infantry"
+		type=infantry
+		home=547
+	}
+	regiment = {
+		name="1st Halle Infantry"
+		type=infantry
+		home=556
+	}
+	regiment = {
+		name="1st Prenzlau Infantry"
+		type=infantry
+		home=550
+	}
+	regiment = {
+		name="1st Erfurt Artillery"
+		type=artillery
+		home=554
+	}
+	regiment = {
+		name="1st Kolberg Artillery"
+		type=artillery
+		home=679
+	}
+	regiment = {
+		name="4th Prenzlau Infantry"
+		type=infantry
+		home=550
+	}
+	regiment = {
+		name="4th Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+}
+
+army = {
+	name="5th Army"
+	location=537
+	regiment = {
+		name="2nd Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="3rd Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="4th Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Leipzig Artillery"
+		type=artillery
+		home=559
+	}
+	regiment = {
+		name="2nd Leipzig Artillery"
+		type=artillery
+		home=559
+	}
+	regiment = {
+		name="3rd Leipzig Artillery"
+		type=artillery
+		home=559
+	}
+}
+
+army = {
+	name="7th Army"
+	location=558
+	regiment = {
+		name="1st Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="2nd Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="2nd Prenzlau Infantry"
+		type=infantry
+		home=550
+	}
+	regiment = {
+		name="1st Stendal Artillery"
+		type=artillery
+		home=557
+	}
+	regiment = {
+		name="2nd Stendal Artillery"
+		type=artillery
+		home=557
+	}
+}
+
+army = {
+	name="9th Army"
+	location=682
+	regiment = {
+		name="3rd Prenzlau Infantry"
+		type=infantry
+		home=550
+	}
+	regiment = {
+		name="3rd Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="1st Neustrelitz Infantry"
+		type=infantry
+		home=545
+	}
+	regiment = {
+		name="1st Dresden Artillery"
+		type=artillery
+		home=558
+	}
+	regiment = {
+		name="1st Swinemünde Artillery"
+		type=artillery
+		home=547
+	}
+}
+
+army = {
+	name="4th Army"
+	location=549
+	regiment = {
+		name="4th Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="5th Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="2nd Dresden Infantry"
+		type=infantry
+		home=558
+	}
+	regiment = {
+		name="2nd Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="1st Stralsund Artillery"
+		type=artillery
+		home=548
+	}
+	regiment = {
+		name="1st Breslau Infantry"
+		type=infantry
+		home=682
+	}
+}
+

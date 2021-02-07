@@ -1,0 +1,9 @@
+owner=SCA
+controller=SCA
+add_core=IDO
+add_core=LNA
+trade_goods = tropical_wood
+life_rating = 30
+terrain = jungle
+colonial=2
+fort = 1

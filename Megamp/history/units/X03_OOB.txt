@@ -1,0 +1,384 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -2
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -3
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = -5
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -7
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 38
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -1
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 21
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -6
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 213
+	military_access = yes
+	influence_value = 40
+	level = 3
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 61
+	influence_value = 2
+	level = 3
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Andrei Dezhnev"
+	date="1806.8.13"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="34th Army"
+	location=1612
+	regiment = {
+		name="1st Dalandzadgad Infantry"
+		type=infantry
+		home=1466
+	}
+	regiment = {
+		name="1st Uliastai Infantry"
+		type=infantry
+		home=1468
+	}
+	regiment = {
+		name="2nd Uliastai Infantry"
+		type=infantry
+		home=1468
+	}
+	regiment = {
+		name="1st Uliastai Artillery"
+		type=artillery
+		home=1468
+	}
+	regiment = {
+		name="4th Uliastai Infantry"
+		type=infantry
+		home=1468
+	}
+	regiment = {
+		name="1st Mukden Artillery"
+		type=artillery
+		home=1479
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1552
+	regiment = {
+		name="2nd Dalandzadgad Infantry"
+		type=infantry
+		home=1466
+	}
+	regiment = {
+		name="3rd Uliastai Infantry"
+		type=infantry
+		home=1468
+	}
+	regiment = {
+		name="1st Qiqihar Infantry"
+		type=infantry
+		home=1552
+	}
+	regiment = {
+		name="1st Dalandzadgad Artillery"
+		type=artillery
+		home=1466
+	}
+	regiment = {
+		name="2nd Mukden Artillery"
+		type=artillery
+		home=1479
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1468
+	regiment = {
+		name="2nd Qiqihar Infantry"
+		type=infantry
+		home=1552
+	}
+	regiment = {
+		name="3rd Qiqihar Infantry"
+		type=infantry
+		home=1552
+	}
+	regiment = {
+		name="3rd Dalandzadgad Infantry"
+		type=infantry
+		home=1466
+	}
+	regiment = {
+		name="2nd Uliastai Artillery"
+		type=artillery
+		home=1468
+	}
+	regiment = {
+		name="1st Urga Artillery"
+		type=artillery
+		home=1465
+	}
+	regiment = {
+		name="1st Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1467
+	regiment = {
+		name="3rd Uliastai Artillery"
+		type=artillery
+		home=1468
+	}
+	regiment = {
+		name="4th Uliastai Artillery"
+		type=artillery
+		home=1468
+	}
+}
+

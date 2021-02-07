@@ -1,0 +1,525 @@
+1191 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 3974
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 4169
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 694
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 42
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1168
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 38534
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 327
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 91
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 3052
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 893
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1617
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 606
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 36
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 339
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 38037
+	}
+
+	slaves=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 51
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 197
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = hindu
+		size= 358
+	}
+
+}
+1196 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1127
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 7892
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 846
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 28
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 947
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 45455
+	}
+
+}
+1198 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 8081
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 18910
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2132
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 130
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 303
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1818
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 111612
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 4105
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = sunni
+		size= 9606
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = sunni
+		size= 1083
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = sunni
+		size= 66
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = sunni
+		size= 924
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 56691
+	}
+
+}
+1199 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 12637
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 19231
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2060
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 288
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 398
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1731
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 101018
+	}
+
+}
+1200 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 3933
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 9831
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1054
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 63
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1179
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 54009
+	}
+
+}
+1202 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1503
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 10521
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1127
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 98
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 947
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 60853
+	}
+
+}

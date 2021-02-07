@@ -1,0 +1,8 @@
+owner=XBI
+controller=XBI
+add_core=CHI
+add_core=XBI
+add_core=MNG
+trade_goods = cotton
+life_rating = 32
+terrain = desert

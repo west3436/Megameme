@@ -1,0 +1,10 @@
+owner=MNI
+controller=MNI
+add_core=CHC
+add_core=CHI
+add_core=CMI
+add_core=MNI
+add_core=MNG
+trade_goods = silk
+life_rating = 32
+terrain = hills

@@ -1,0 +1,580 @@
+#Sphere of Influence
+
+ADA = {
+	value = -11
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -7
+	level = 2
+}
+BAV = {
+	value = -6
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -60
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 12
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = -5
+	level = 2
+}
+MEX = {
+	value = 1
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -1
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 15
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = -22
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = -3
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -5
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 153
+	military_access = yes
+	influence_value = 25
+	level = 2
+}
+SKA = {
+	value = -10
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = -7
+	level = 2
+}
+SWA = {
+	value = -11
+	level = 2
+}
+TBK = {
+	value = -10
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -191
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = -32
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 1
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Bjørn Torsson"
+	date="1793.9.29"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Christoffer Egilsson"
+	date="1799.11.10"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Knut Nansen"
+	date="1800.6.12"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kennet Haraldsson"
+	date="1804.8.7"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ansgard Torgeirsson"
+	date="1805.9.26"
+	type=sea
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Folke Haraldsson"
+	date="1811.10.5"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kennet Torgeirsson"
+	date="1818.10.7"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="6th Army"
+	location=66
+	regiment = {
+		name="1st Millertown Infantry"
+		type=infantry
+		home=75
+	}
+	regiment = {
+		name="1st Grand Rapids Artillery"
+		type=artillery
+		home=174
+	}
+	regiment = {
+		name="1st Dryden Infantry"
+		type=infantry
+		home=49
+	}
+	regiment = {
+		name="1st Montreal Artillery"
+		type=artillery
+		home=58
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=37
+	regiment = {
+		name="1st Madison Infantry"
+		type=infantry
+		home=162
+	}
+	regiment = {
+		name="1st Winnipeg Artillery"
+		type=artillery
+		home=36
+	}
+	regiment = {
+		name="1st Concord Infantry"
+		type=infantry
+		home=247
+	}
+	regiment = {
+		name="1st Bangor Artillery"
+		type=artillery
+		home=249
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=65
+	ship = {
+		name="1st Millertown Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quebec City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chicoutimi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vinland Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vinland Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=177
+	regiment = {
+		name="2nd Millertown Infantry"
+		type=infantry
+		home=75
+	}
+	regiment = {
+		name="1st Cape Breton Island Artillery"
+		type=artillery
+		home=73
+	}
+	regiment = {
+		name="1st Saint Johns Infantry"
+		type=infantry
+		home=74
+	}
+	regiment = {
+		name="1st Lewiston Artillery"
+		type=artillery
+		home=248
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=242
+	ship = {
+		name="2nd Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chicoutimi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=65
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Pierre & Miquelon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vinland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=112
+	regiment = {
+		name="1st Dauphin Infantry"
+		type=infantry
+		home=40
+	}
+	regiment = {
+		name="1st Boston Infantry"
+		type=infantry
+		home=243
+	}
+	regiment = {
+		name="1st Billings Cavalry"
+		type=cavalry
+		home=116
+	}
+	regiment = {
+		name="1st Hartford Artillery"
+		type=artillery
+		home=241
+	}
+	regiment = {
+		name="1st Goodland Infantry"
+		type=infantry
+		home=127
+	}
+	regiment = {
+		name="1st Rapid City Cavalry"
+		type=cavalry
+		home=122
+	}
+}
+
+army = {
+	name="1st Army"
+	location=158
+	regiment = {
+		name="1st Boston Cavalry"
+		type=cavalry
+		home=243
+	}
+	regiment = {
+		name="1st Burlington Artillery"
+		type=artillery
+		home=246
+	}
+}
+

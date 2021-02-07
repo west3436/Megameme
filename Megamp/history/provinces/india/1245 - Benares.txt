@@ -1,0 +1,7 @@
+owner=TRT
+controller=TRT
+add_core=TRT
+add_core=HND
+trade_goods = fruit
+life_rating = 32
+terrain = plains

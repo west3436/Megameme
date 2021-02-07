@@ -1,0 +1,9 @@
+#Sphere of Influence
+ENG = {
+	value = 200
+	level = 2
+}
+
+#Leaders
+
+#Armies

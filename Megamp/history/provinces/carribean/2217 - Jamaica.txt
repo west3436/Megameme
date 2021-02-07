@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=JAM
+trade_goods = sulphur
+life_rating = 35
+terrain = mountain
+colonial = 2

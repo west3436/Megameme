@@ -1,0 +1,566 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -3
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -53
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 14
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 2
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LAC = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = -2
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 28
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 338
+	military_access = yes
+	influence_value = 22
+	level = 3
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Baltasar Carlos de la Cerda"
+	date="1794.4.11"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sancho de Borja"
+	date="1797.8.14"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="García Cagigal de la Vega"
+	date="1805.9.6"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Diego Fonseca"
+	date="1808.11.3"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Pedro Ponce de León"
+	date="1810.8.22"
+	type=land
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Luis Fernández de Córdoba"
+	date="1811.11.30"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Pelayo de Zúñiga"
+	date="1812.5.8"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="15th Army"
+	location=2211
+	regiment = {
+		name="1st Bogotá Infantry"
+		type=infantry
+		home=2247
+	}
+	regiment = {
+		name="1st Caracas Artillery"
+		type=artillery
+		home=2264
+	}
+	regiment = {
+		name="1st Valera Artillery"
+		type=artillery
+		home=2271
+	}
+	regiment = {
+		name="1st Bogotá Artillery"
+		type=artillery
+		home=2247
+	}
+	regiment = {
+		name="2nd Caracas Artillery"
+		type=artillery
+		home=2264
+	}
+	regiment = {
+		name="1st Manizales Infantry"
+		type=infantry
+		home=2250
+	}
+	regiment = {
+		name="1st Cúcuta Artillery"
+		type=artillery
+		home=2251
+	}
+	regiment = {
+		name="1st Curiapo Artillery"
+		type=artillery
+		home=2276
+	}
+	regiment = {
+		name="1st Maracaibo Artillery"
+		type=artillery
+		home=2270
+	}
+	regiment = {
+		name="1st Cali Artillery"
+		type=artillery
+		home=2256
+	}
+	regiment = {
+		name="1st Ibagué Artillery"
+		type=artillery
+		home=2248
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2213
+	ship = {
+		name="1st Port Au Prince Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Camagüey Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Camagüey Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Coro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Recife Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Camagüey Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=2271
+	regiment = {
+		name="1st Coro Infantry"
+		type=infantry
+		home=2272
+	}
+	regiment = {
+		name="2nd Coro Infantry"
+		type=infantry
+		home=2272
+	}
+	regiment = {
+		name="1st Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+	regiment = {
+		name="2nd Bogotá Infantry"
+		type=infantry
+		home=2247
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2276
+	regiment = {
+		name="1st Barquisimeto Infantry"
+		type=infantry
+		home=2273
+	}
+	regiment = {
+		name="3rd Coro Infantry"
+		type=infantry
+		home=2272
+	}
+	regiment = {
+		name="1st Valera Infantry"
+		type=infantry
+		home=2271
+	}
+	regiment = {
+		name="1st Cartagena de Indias Infantry"
+		type=infantry
+		home=2254
+	}
+	regiment = {
+		name="2nd Barquisimeto Infantry"
+		type=infantry
+		home=2273
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2972
+	ship = {
+		name="1st Jamaica Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2969
+	ship = {
+		name="1st Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maracaibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maracaibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+}
+

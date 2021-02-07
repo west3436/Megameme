@@ -1,0 +1,7 @@
+owner=X16
+controller=X16
+add_core=X16
+trade_goods = fish
+life_rating = 40
+terrain = woods
+fort = 1

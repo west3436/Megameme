@@ -1,0 +1,8 @@
+owner=LNA
+controller=LNA
+add_core=CAM
+add_core=IDO
+add_core=LNA
+trade_goods = tea
+life_rating = 30
+terrain = jungle

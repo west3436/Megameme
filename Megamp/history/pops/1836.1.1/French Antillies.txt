@@ -1,0 +1,256 @@
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1673
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 103
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 54
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 10826
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = catholic
+		size= 665
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = catholic
+		size= 789
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = catholic
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = catholic
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = catholic
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 12622
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 776
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 310
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = catholic
+		size= 31
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3164
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 196
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 15
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 26083
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 1617
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 4410
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 205
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 75
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 530
+	}
+
+}

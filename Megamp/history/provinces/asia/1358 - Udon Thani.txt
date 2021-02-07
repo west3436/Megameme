@@ -1,0 +1,8 @@
+owner=LNA
+controller=LNA
+add_core=IDO
+add_core=LNA
+add_core=LUA
+trade_goods = fruit
+life_rating = 30
+terrain = hills

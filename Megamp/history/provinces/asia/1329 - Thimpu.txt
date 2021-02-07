@@ -1,0 +1,7 @@
+owner=BHU
+controller=BHU
+add_core=BHU
+add_core=HND
+trade_goods = wool
+life_rating = 25
+terrain = mountain

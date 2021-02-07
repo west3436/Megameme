@@ -1,0 +1,1083 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 57
+	influence_value = 1
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CRB = {
+	value = -8
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -25
+	level = 2
+}
+ETH = {
+	value = -53
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 31
+	level = 2
+}
+KOR = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+KSJ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 19
+	level = 2
+}
+MEX = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 71
+	influence_value = 5
+	level = 2
+}
+MNI = {
+	value = -16
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -1
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 4
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 30
+	level = 2
+}
+RUS = {
+	value = -40
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SOF = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 7
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -78
+	level = 2
+}
+X01 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X02 = {
+	value = 217
+	military_access = yes
+	influence_value = 91
+	level = 5
+}
+X03 = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = -9
+	level = 2
+}
+X07 = {
+	value = 225
+	military_access = yes
+	influence_value = 93
+	level = 5
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -10
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X18 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X19 = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+YUE = {
+	value = 16
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Nîkû-siyar I Tughluq"
+	date="1813.2.6"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Murâd Bakhsh Mirza"
+	date="1798.3.12"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Murâd Bakhsh Shahabuddin"
+	date="1810.2.3"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Islâm Shâh Rumi"
+	date="1810.2.9"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Akbar Shahabuddin"
+	date="1810.7.19"
+	type=land
+	personality="efficient"
+	background="artillerist"
+}
+
+leader = {
+	name="'Âlamgîr Singh"
+	date="1812.12.3"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="12th Army"
+	location=1292
+	regiment = {
+		name="1st Mashhad Irregulars"
+		type=irregular
+		home=1147
+	}
+	regiment = {
+		name="2nd Mashhad Irregulars"
+		type=irregular
+		home=1147
+	}
+	regiment = {
+		name="1st Merv Cavalry"
+		type=cavalry
+		home=1206
+	}
+	regiment = {
+		name="1st Herat Artillery"
+		type=artillery
+		home=1212
+	}
+	regiment = {
+		name="1st Balkh Artillery"
+		type=artillery
+		home=1211
+	}
+	regiment = {
+		name="1st Farrah Irregulars"
+		type=irregular
+		home=1214
+	}
+	regiment = {
+		name="1st Mashhad Cavalry"
+		type=cavalry
+		home=1147
+	}
+	regiment = {
+		name="2nd Merv Cavalry"
+		type=cavalry
+		home=1206
+	}
+	regiment = {
+		name="2nd Herat Artillery"
+		type=artillery
+		home=1212
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1301
+	regiment = {
+		name="1st Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="1st Sukkur Irregulars"
+		type=irregular
+		home=1289
+	}
+	regiment = {
+		name="1st Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+	regiment = {
+		name="1st Bam Artillery"
+		type=artillery
+		home=1143
+	}
+	regiment = {
+		name="4th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="1st Kerman Artillery"
+		type=artillery
+		home=1140
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1285
+	regiment = {
+		name="1st Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+	regiment = {
+		name="2nd Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+	regiment = {
+		name="1st Herat Cavalry"
+		type=cavalry
+		home=1212
+	}
+	regiment = {
+		name="1st Umarkot Artillery"
+		type=artillery
+		home=1290
+	}
+	regiment = {
+		name="2nd Umarkot Artillery"
+		type=artillery
+		home=1290
+	}
+	regiment = {
+		name="2nd Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="1st Lahore Cavalry"
+		type=cavalry
+		home=1227
+	}
+	regiment = {
+		name="1st Khiva Cavalry"
+		type=cavalry
+		home=1191
+	}
+	regiment = {
+		name="3rd Umarkot Artillery"
+		type=artillery
+		home=1290
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1275
+	regiment = {
+		name="1st Khotan Irregulars"
+		type=irregular
+		home=1598
+	}
+	regiment = {
+		name="2nd Khotan Irregulars"
+		type=irregular
+		home=1598
+	}
+	regiment = {
+		name="1st Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+	regiment = {
+		name="1st Birjand Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
+		name="3rd Khotan Irregulars"
+		type=irregular
+		home=1598
+	}
+	regiment = {
+		name="3rd Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1271
+	regiment = {
+		name="1st Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="1st Kyzyl Arvat Artillery"
+		type=artillery
+		home=1205
+	}
+	regiment = {
+		name="1st Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="2nd Delhi Irregulars"
+		type=irregular
+		home=1236
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1581
+	regiment = {
+		name="2nd Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="3rd Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="1st Rajkot Cavalry"
+		type=cavalry
+		home=1292
+	}
+	regiment = {
+		name="1st Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="2nd Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="5th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="3rd Rajkot Cavalry"
+		type=cavalry
+		home=1292
+	}
+	regiment = {
+		name="4th Rajkot Cavalry"
+		type=cavalry
+		home=1292
+	}
+	regiment = {
+		name="4th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1286
+	regiment = {
+		name="2nd Sukkur Irregulars"
+		type=irregular
+		home=1289
+	}
+	regiment = {
+		name="3rd Sukkur Irregulars"
+		type=irregular
+		home=1289
+	}
+	regiment = {
+		name="4th Sukkur Irregulars"
+		type=irregular
+		home=1289
+	}
+	regiment = {
+		name="5th Sukkur Irregulars"
+		type=irregular
+		home=1289
+	}
+	regiment = {
+		name="1st Sukkur Cavalry"
+		type=cavalry
+		home=1289
+	}
+	regiment = {
+		name="1st Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="1st Sukkur Artillery"
+		type=artillery
+		home=1289
+	}
+	regiment = {
+		name="2nd Sukkur Artillery"
+		type=artillery
+		home=1289
+	}
+	regiment = {
+		name="1st Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+	regiment = {
+		name="1st Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="2nd Sukkur Cavalry"
+		type=cavalry
+		home=1289
+	}
+	regiment = {
+		name="3rd Sukkur Cavalry"
+		type=cavalry
+		home=1289
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1299
+	regiment = {
+		name="1st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Delhi Irregulars"
+		type=irregular
+		home=1236
+	}
+	regiment = {
+		name="1st Kalat Artillery"
+		type=artillery
+		home=1221
+	}
+	regiment = {
+		name="2nd Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+	regiment = {
+		name="1st Firozpur Artillery"
+		type=artillery
+		home=1234
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1295
+	regiment = {
+		name="1st Sabzevar Irregulars"
+		type=irregular
+		home=1149
+	}
+	regiment = {
+		name="2nd Sabzevar Irregulars"
+		type=irregular
+		home=1149
+	}
+	regiment = {
+		name="1st Gorgan Artillery"
+		type=artillery
+		home=1116
+	}
+	regiment = {
+		name="1st Ashkhabad Artillery"
+		type=artillery
+		home=1204
+	}
+}
+
+army = {
+	name="41st Army"
+	location=1521
+	regiment = {
+		name="1st Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="2nd Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="2nd Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="3rd Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="5th Agra Artillery"
+		type=artillery
+		home=1240
+	}
+}
+
+army = {
+	name="56th Army"
+	location=1253
+	regiment = {
+		name="1st Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="2nd Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="3rd Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+	regiment = {
+		name="4th Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+}
+
+army = {
+	name="146th Army"
+	location=1297
+	regiment = {
+		name="1st Bukhara Irregulars"
+		type=irregular
+		home=1198
+	}
+	regiment = {
+		name="2nd Bukhara Irregulars"
+		type=irregular
+		home=1198
+	}
+	regiment = {
+		name="1st Bukhara Artillery"
+		type=artillery
+		home=1198
+	}
+	regiment = {
+		name="1st Kyzylorda Artillery"
+		type=artillery
+		home=1193
+	}
+	regiment = {
+		name="2nd Kyzylorda Artillery"
+		type=artillery
+		home=1193
+	}
+}
+
+army = {
+	name="148th Army"
+	location=1277
+	regiment = {
+		name="1st Herat Irregulars"
+		type=irregular
+		home=1212
+	}
+	regiment = {
+		name="3rd Mashhad Irregulars"
+		type=irregular
+		home=1147
+	}
+	regiment = {
+		name="1st Farrah Artillery"
+		type=artillery
+		home=1214
+	}
+	regiment = {
+		name="2nd Farrah Artillery"
+		type=artillery
+		home=1214
+	}
+	regiment = {
+		name="1st Mashhad Artillery"
+		type=artillery
+		home=1147
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=1292
+	ship = {
+		name="1st Jask Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bushire Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chabahar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chabahar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Abadan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bandar Abbas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Abadan Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="204th Army"
+	location=1523
+	regiment = {
+		name="3rd Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="3rd Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="4th Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="1st Zanjan Artillery"
+		type=artillery
+		home=1123
+	}
+	regiment = {
+		name="4th Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="1st Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1303
+	regiment = {
+		name="2nd Herat Irregulars"
+		type=irregular
+		home=1212
+	}
+	regiment = {
+		name="3rd Herat Irregulars"
+		type=irregular
+		home=1212
+	}
+	regiment = {
+		name="1st Merv Artillery"
+		type=artillery
+		home=1206
+	}
+	regiment = {
+		name="2nd Merv Artillery"
+		type=artillery
+		home=1206
+	}
+	regiment = {
+		name="3rd Merv Artillery"
+		type=artillery
+		home=1206
+	}
+}
+
+army = {
+	name="26th Army"
+	location=1285
+	regiment = {
+		name="4th Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="1st Qazvin Irregulars"
+		type=irregular
+		home=1124
+	}
+	regiment = {
+		name="2nd Zanjan Artillery"
+		type=artillery
+		home=1123
+	}
+	regiment = {
+		name="3rd Zanjan Artillery"
+		type=artillery
+		home=1123
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1285
+	regiment = {
+		name="1st Bela Irregulars"
+		type=irregular
+		home=1222
+	}
+	regiment = {
+		name="2nd Bela Irregulars"
+		type=irregular
+		home=1222
+	}
+	regiment = {
+		name="1st Bela Cavalry"
+		type=cavalry
+		home=1222
+	}
+	regiment = {
+		name="1st Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="1st Bela Artillery"
+		type=artillery
+		home=1222
+	}
+	regiment = {
+		name="2nd Mashhad Cavalry"
+		type=cavalry
+		home=1147
+	}
+	regiment = {
+		name="2nd Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1301
+	regiment = {
+		name="1st Ajmer Irregulars"
+		type=irregular
+		home=1264
+	}
+	regiment = {
+		name="2nd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="2nd Rajkot Cavalry"
+		type=cavalry
+		home=1292
+	}
+	regiment = {
+		name="2nd Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+	regiment = {
+		name="3rd Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="1st Hoshangabad Cavalry"
+		type=cavalry
+		home=1276
+	}
+	regiment = {
+		name="4th Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+}
+

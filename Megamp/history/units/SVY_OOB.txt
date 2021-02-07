@@ -1,0 +1,414 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 200
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OUC = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+    name = "Carlo Alberto"
+    date = 1831.1.1
+    type = land
+    personality = openminded
+    background = aristocrat
+    prestige = 0.5
+}
+
+leader = {
+    name = "Emanuele Pes"
+    date = 1820.1.1
+    type = land
+    personality = diplomatic
+    background = politician
+    prestige = 0.2
+}
+
+leader = {
+    name = "Eusebio Bava"
+    date = 1832.1.1
+    type = land
+    personality = cautious
+    background = war_college
+    prestige = 0.1
+}
+
+leader = {
+    name = "Ettore Gerbaix"
+    date = 1834.1.1
+    type = land
+    personality = scared
+    background = aristocrat
+    prestige = 0.0
+}
+
+leader = {
+    name = "Giuseppe Albini"
+    date = 1836.1.1
+    type = sea
+    personality = indifferent
+    background = war_college
+    prestige = 0.0
+}
+
+leader = {
+    name = "La Marmora-Masserano"
+    date = 1836.1.1
+    type = land
+    personality = mediocre
+    background = cavalry_school
+    prestige = 0.0
+}
+
+leader = {
+    name = "Agostino Chiodo"
+    date = 1836.1.1
+    type = land
+    personality = careful
+    background = engineer
+    prestige = 0.0
+}
+
+#Armies
+army = {
+    name = "Esercito di Sardegna"
+    location = 724
+    regiment = {
+        name= "1.Fanteria di Linea"
+        type = infantry
+        home = 724
+    }
+
+    regiment = {
+        name= "2.Fanteria di Linea"
+        type = infantry
+        home = 723
+    }
+
+    regiment = {
+        name= "3.Fanteria di Linea"
+        type = infantry
+        home = 725
+    }
+
+}
+
+army = {
+    name = "Arma dei Carabinieri"
+    location = 720
+    regiment = {
+        name= "1.Carabinieri"
+        type = infantry
+        home = 720
+    }
+
+    regiment = {
+        name= "2.Carabinieri"
+        type = infantry
+        home = 722
+    }
+
+    regiment = {
+        name= "1.Carabinieri Reali"
+        type = cuirassier
+        home = 720
+    }
+
+    regiment = {
+        name= "2.Carabinieri Reali"
+        type = cuirassier
+        home = 472
+    }
+}
+
+army = {
+    name = "Arma dei Granatieri"
+    location = 765
+    regiment = {
+        name= "1.Granatieri di Sardegna"
+        type = infantry
+        home = 765
+    }
+
+    regiment = {
+        name= "2.Granatieri di Sardegna"
+        type = infantry
+        home = 766
+    }
+}
+
+army = {
+    name = "Arma dei Bersaglieri"
+    location = 721
+    regiment = {
+        name= "1.Bersaglieri"
+        type = guard
+        home = 466
+    }
+
+    regiment = {
+        name= "2.Bersaglieri"
+        type = guard
+        home = 465
+    }
+}

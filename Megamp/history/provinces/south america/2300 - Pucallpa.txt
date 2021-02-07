@@ -1,0 +1,7 @@
+owner=ECU
+controller=ECU
+add_core=CYA
+add_core=ECU
+trade_goods = wool
+life_rating = 30
+terrain = mountain
