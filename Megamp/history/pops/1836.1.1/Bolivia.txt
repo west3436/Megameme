@@ -2,49 +2,49 @@
 	soldiers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 1295
 	}
 
 	artisans=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 840
 	}
 
 	clergymen=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 90
 	}
 
 	bureaucrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 8
 	}
 
 	officers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 25855
 	}
 
@@ -293,49 +293,49 @@
 	soldiers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 129
 	}
 
 	artisans=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 98
 	}
 
 	clergymen=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 5
 	}
 
 	bureaucrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 6
 	}
 
 	farmers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 2569
 	}
 
@@ -442,49 +442,49 @@
 	soldiers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 211
 	}
 
 	artisans=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 264
 	}
 
 	clergymen=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 14
 	}
 
 	bureaucrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 16
 	}
 
 	farmers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 7022
 	}
 
@@ -591,49 +591,49 @@
 	soldiers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 380
 	}
 
 	artisans=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 82
 	}
 
 	clergymen=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 15
 	}
 
 	bureaucrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 17
 	}
 
 	farmers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 7747
 	}
 
@@ -740,49 +740,49 @@
 	soldiers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 77
 	}
 
 	artisans=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 62
 	}
 
 	clergymen=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 5
 	}
 
 	bureaucrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 6
 	}
 
 	farmers=
 	{
 		culture = aimara
-		religion = inti
+		religion = animist
 		size= 2597
 	}
 

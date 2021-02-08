@@ -2,49 +2,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 237
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 474
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 77
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 24
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 15
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 22771
 	}
 
@@ -102,49 +102,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 160
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 321
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 52
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 16
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 67
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 15403
 	}
 

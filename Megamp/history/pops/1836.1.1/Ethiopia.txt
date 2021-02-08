@@ -57,35 +57,35 @@
 
 	aristocrats=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 2600
 	}
@@ -271,35 +271,35 @@
 
 	aristocrats=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 550
 	}
 
 	soldiers=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = 
+		culture = amhara
 		religion = jewish
 		size= 8175
 	}

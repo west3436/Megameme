@@ -2,49 +2,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 249
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 561
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 41
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 12
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 61
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 11534
 	}
 
@@ -102,35 +102,35 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 19
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 14
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 910
 	}
 
@@ -221,7 +221,7 @@
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 1
 	}
 
@@ -279,49 +279,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 173
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 390
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 28
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 9
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 42
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 8024
 	}
 
@@ -379,49 +379,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 157
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 354
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 26
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 8
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 39
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 7279
 	}
 
@@ -479,49 +479,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 173
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 347
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 56
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 17
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 11
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 73
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 7991
 	}
 
@@ -530,49 +530,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 70
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 70
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 11
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 3328
 	}
 
@@ -630,49 +630,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 43
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 43
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 9
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 2034
 	}
 
@@ -730,49 +730,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 343
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 343
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 56
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 17
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 11
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 72
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 16286
 	}
 
@@ -867,49 +867,49 @@
 	soldiers=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 74
 	}
 
 	artisans=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 37
 	}
 
 	clergymen=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 6
 	}
 
 	bureaucrats=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 8
 	}
 
 	farmers=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 3580
 	}
 
@@ -1016,49 +1016,49 @@
 	soldiers=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 120
 	}
 
 	artisans=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 60
 	}
 
 	clergymen=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 13
 	}
 
 	farmers=
 	{
 		culture = sotho
-		religion = shamanism
+		religion = animist
 		size= 5806
 	}
 
@@ -1165,49 +1165,49 @@
 	soldiers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 65
 	}
 
 	artisans=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 65
 	}
 
 	clergymen=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 21
 	}
 
 	bureaucrats=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 28
 	}
 
 	farmers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 3099
 	}
 
@@ -1265,49 +1265,49 @@
 	soldiers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 65
 	}
 
 	artisans=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 65
 	}
 
 	clergymen=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 21
 	}
 
 	bureaucrats=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 28
 	}
 
 	farmers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 3099
 	}
 
@@ -1365,49 +1365,49 @@
 	soldiers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 117
 	}
 
 	artisans=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 117
 	}
 
 	clergymen=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 38
 	}
 
 	bureaucrats=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 49
 	}
 
 	farmers=
 	{
 		culture = xhosa
-		religion = shamanism
+		religion = animist
 		size= 5575
 	}
 
@@ -1465,49 +1465,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 441
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 1545
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 72
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 22
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 93
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 19883
 	}
 
@@ -1565,49 +1565,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 243
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 849
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 39
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 12
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 51
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 10925
 	}
 
@@ -1665,49 +1665,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 193
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 677
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 31
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 10
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 41
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 8712
 	}
 
@@ -1765,49 +1765,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 291
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 1019
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 47
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 15
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 61
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 13119
 	}
 
@@ -1865,49 +1865,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 363
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 363
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 59
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 18
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 76
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 17251
 	}
 
@@ -1965,49 +1965,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 262
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 262
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 42
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 13
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 55
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 12433
 	}
 
@@ -2065,49 +2065,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 279
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 279
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 45
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 14
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 59
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 13261
 	}
 
@@ -2165,49 +2165,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 128
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 128
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 21
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 27
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 6071
 	}
 
@@ -2265,49 +2265,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 135
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 135
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 22
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 7
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 28
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 6420
 	}
 
@@ -2365,49 +2365,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 76
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 76
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 12
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 32
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 3611
 	}
 
@@ -2465,49 +2465,49 @@
 	soldiers=
 	{
 		culture = zulu
-		religion = shamanism
+		religion = animist
 		size= 286
 	}
 
 	artisans=
 	{
 		culture = zulu
-		religion = shamanism
+		religion = animist
 		size= 286
 	}
 
 	clergymen=
 	{
 		culture = zulu
-		religion = shamanism
+		religion = animist
 		size= 47
 	}
 
 	bureaucrats=
 	{
 		culture = zulu
-		religion = shamanism
+		religion = animist
 		size= 14
 	}
 
 	officers=
 	{
 		culture = zulu
-		religion = shamanism
+		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = zulu
-		religion = shamanism
+		religion = animist
 		size= 60
 	}
 
 	farmers=
 	{
 		culture = zulu
-		religion = shamanism
+		religion = animist
 		size= 13606
 	}
 
@@ -2565,49 +2565,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 355
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 1242
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 58
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 18
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 15987
 	}
 
@@ -2665,49 +2665,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 607
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 607
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 99
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 30
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 128
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 28880
 	}
 
@@ -2765,49 +2765,49 @@
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 213
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 213
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 35
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 11
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 7
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 90
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 10097
 	}
 
@@ -2865,49 +2865,49 @@
 	soldiers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 70
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 70
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 11
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = khoisan
-		religion = shamanism
+		religion = animist
 		size= 3328
 	}
 
