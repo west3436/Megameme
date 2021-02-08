@@ -23,4 +23,47 @@ political_decisions = {
 			set_country_flag = hawaii_annexed
 		}
 	}
+	
+	form_iberian_union = {
+	potential = {
+            tag = SPA
+            NOT = { exists = IBR }
+        }
+
+        allow = {
+            war = no
+            OR = {
+                is_sphere_leader_of = POR
+                POR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            empty = yes
+                        }
+                    }
+                    war = no
+                    is_mobilised = no
+                }
+            }
+			nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 10
+            add_accepted_culture = portuguese
+			change_tag = IBR
+			518 =  { add_core = IBR }
+			519 =  { add_core = IBR }
+			520 =  { add_core = IBR }
+			521 =  { add_core = IBR }
+			522 =  { add_core = IBR }
+			523 =  { add_core = IBR }
+			524 =  { add_core = IBR }
+			525 =  { add_core = IBR }
+			526 =  { add_core = IBR }
+			527 =  { add_core = IBR }
+		ai_will_do = {
+            factor = 1
+        }
+    }
+}
 }
