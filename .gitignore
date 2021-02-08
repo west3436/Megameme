@@ -1,3 +1,7 @@
 ﻿.vscode/
+<<<<<<< HEAD
 copy.ps1
 test11.txt
+=======
+copy.ps1
+>>>>>>> parent of 3d1a440 (testing)
