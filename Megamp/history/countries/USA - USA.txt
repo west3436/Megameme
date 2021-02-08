@@ -57,6 +57,7 @@ introspectionism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1
 no_standard = 1
+piston_steam_engine = 1
 private_banks = 1
 publishing_industry = 1
 romanticism = 1

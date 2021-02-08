@@ -234,49 +234,49 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = polynesian
 		religion = catholic
 		size= 7289
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = polynesian
 		religion = catholic
 		size= 35559
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = polynesian
 		religion = catholic
 		size= 3301
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = polynesian
 		religion = catholic
 		size= 711
 	}
 
 	officers=
 	{
-		culture = french
+		culture = polynesian
 		religion = catholic
 		size= 534
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = polynesian
 		religion = catholic
 		size= 4267
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = polynesian
 		religion = catholic
 		size= 78483
 	}
