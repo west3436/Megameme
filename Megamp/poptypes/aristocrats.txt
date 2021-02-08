@@ -150,7 +150,7 @@ country_migration_target = {
         OR = {
             capital_scope = { is_colonial = no continent = north_america }
             capital_scope = { is_colonial = no continent = south_america }
-            capital_scope = { is_colonial = no continent = australia_new_zealand }
+            capital_scope = { is_colonial = no continent = oceania }
         }
         OR = {
             government = democracy
@@ -167,7 +167,7 @@ country_migration_target = {
         OR = {
             capital_scope = { is_colonial = no continent = north_america }
             capital_scope = { is_colonial = no continent = south_america }
-            capital_scope = { is_colonial = no continent = australia_new_zealand }
+            capital_scope = { is_colonial = no continent = oceania }
         }
         OR = {
             government = democracy
@@ -233,13 +233,8 @@ migration_target = {
     }
 
     modifier = {
-        factor = 0.7
-        terrain = savanna
-    }
-
-    modifier = {
         factor = 0.8
-        terrain = dryhills
+        terrain = hills
     }
 
     modifier = {
@@ -254,7 +249,7 @@ migration_target = {
 
     modifier = {
         factor = 0.6
-        terrain = montane_forest
+        terrain = forest
     }
 
     modifier = {
@@ -264,27 +259,17 @@ migration_target = {
 
     modifier = {
         factor = 0.5
-        terrain = semidesert
-    }
-
-    modifier = {
-        factor = 0.5
-        terrain = boreal
+        terrain = woods
     }
 
     modifier = {
         factor = 0.1
-        terrain = small_island
+        terrain = coastal_desert
     }
 
     modifier = {
         factor = 0.01
-        terrain = coral_island
-    }
-
-    modifier = {
-        factor = 0.05
-        terrain = desert
+        terrain = farmlands
     }
 
     modifier = {
@@ -296,11 +281,6 @@ migration_target = {
     modifier = {
         factor = 0.05
         terrain = arctic
-    }
-
-    modifier = {
-        factor = 0.05
-        terrain = montane_tundra
     }
 
     modifier = {
@@ -319,11 +299,9 @@ migration_target = {
         OR = {
             terrain = desert
             terrain = arctic
-            terrain = semidesert
-            terrain = boreal
-            terrain = small_island
-            terrain = montane_tundra
-            terrain = coral_island
+            terrain = coastal_desert
+            terrain = woods
+            terrain = farmlands
         }
     }
     modifier = {
@@ -347,11 +325,9 @@ promote_to =
             OR = {
                 terrain = desert
                 terrain = arctic
-                terrain = semidesert
-                terrain = boreal
-                terrain = small_island
-                terrain = montane_tundra
-                terrain = coral_island
+                terrain = coastal_desert
+                terrain = woods
+                terrain = farmlands
             }
         }
         modifier = {
