@@ -706,7 +706,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 863
+		size= 8863
 	}
 
 	clergymen=
