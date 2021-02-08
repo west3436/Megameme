@@ -2,35 +2,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -39,35 +39,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -76,35 +76,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -113,35 +113,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 30
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 520
 	}
 
@@ -150,35 +150,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -187,35 +187,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -224,35 +224,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 450
 	}
 
@@ -261,28 +261,28 @@
 	soldiers=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 250
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
@@ -338,21 +338,21 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 83
 	}
 
@@ -361,28 +361,28 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 220
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -482,21 +482,21 @@
 	soldiers=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 189
 	}
 
@@ -552,21 +552,21 @@
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 126
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -575,35 +575,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -612,35 +612,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -649,28 +649,28 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 145
 	}
 
@@ -728,21 +728,21 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 268
 	}
 
@@ -798,7 +798,7 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -807,35 +807,35 @@
 	soldiers=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = penutian
-		religion = totemism
+		religion = animist
 		size= 230
 	}
 
@@ -893,35 +893,35 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 262
 	}
 
@@ -979,42 +979,42 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 12
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 556
 	}
 
@@ -1072,35 +1072,35 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 306
 	}
 
@@ -1158,28 +1158,28 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 142
 	}
 
@@ -1237,28 +1237,28 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 144
 	}
 
@@ -1316,42 +1316,42 @@
 	soldiers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 8
 	}
 
 	clergymen=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	bureaucrats=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 370
 	}
 
@@ -1409,42 +1409,42 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 308
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -1502,49 +1502,49 @@
 	soldiers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 413
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 19
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -1602,49 +1602,49 @@
 	soldiers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 403
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 18
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -1702,63 +1702,63 @@
 	soldiers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 528
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = totemism
+		religion = animist
 		size= 20
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 19
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 46
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 23
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	clergymen=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -1816,35 +1816,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 900
 	}
 
@@ -1853,21 +1853,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 424
 	}
 
@@ -1881,14 +1881,14 @@
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -1939,35 +1939,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 14
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 22
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 433
 	}
 
@@ -2025,42 +2025,42 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 22
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 439
 	}
 
@@ -2118,70 +2118,70 @@
 	soldiers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 179
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 133
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 12
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -2239,56 +2239,56 @@
 	soldiers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 12
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 663
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
@@ -2346,21 +2346,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 66
 	}
 
@@ -2416,28 +2416,28 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 118
 	}
 
@@ -2446,35 +2446,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 217
 	}
 
@@ -2532,35 +2532,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 440
 	}
 
@@ -2618,35 +2618,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 21
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 422
 	}
 
@@ -2704,56 +2704,56 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 14
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 444
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 19
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -2811,49 +2811,49 @@
 	soldiers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 442
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -2911,35 +2911,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 40
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 725
 	}
 
@@ -2948,35 +2948,35 @@
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 25
 	}
 
 	soldiers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 450
 	}
 
@@ -2985,35 +2985,35 @@
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 900
 	}
 
@@ -3022,49 +3022,49 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 281
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 201
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 33
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 42
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 9463
 	}
 
@@ -3122,35 +3122,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 163
 	}
 
@@ -3208,21 +3208,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 258
 	}
 
@@ -3280,42 +3280,42 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 498
 	}
 
@@ -3373,21 +3373,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 298
 	}
 
@@ -3443,14 +3443,14 @@
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -3459,49 +3459,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 201
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 12
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 30
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -3608,21 +3608,21 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 218
 	}
 
@@ -3713,7 +3713,7 @@
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
@@ -3771,21 +3771,21 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 98
 	}
 
@@ -3841,21 +3841,21 @@
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 92
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -3913,49 +3913,49 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 23
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 46
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 2191
 	}
 
@@ -4013,49 +4013,49 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 43
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 87
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 14
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 18
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 4163
 	}
 
@@ -4113,84 +4113,84 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 46
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1591
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 118
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 26
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -4248,77 +4248,77 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 20
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 708
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 178
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	artisans=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
@@ -4374,28 +4374,28 @@
 	soldiers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -4404,126 +4404,126 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 127
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 4259
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 432
 	}
 
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 12
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 366
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 27
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 76
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 21
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
@@ -4579,35 +4579,35 @@
 	soldiers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 71
 	}
 
@@ -4616,21 +4616,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 60
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -4688,21 +4688,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 93
 	}
 
@@ -4760,35 +4760,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 8
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 230
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
@@ -4846,14 +4846,14 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 246
 	}
 
@@ -4909,7 +4909,7 @@
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
@@ -4918,28 +4918,28 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 436
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 19
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
@@ -5044,21 +5044,21 @@
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = plains_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
@@ -5067,91 +5067,91 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1133
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = totemism
+		religion = animist
 		size= 27
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 88
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 70
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 44
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -5209,105 +5209,105 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 90
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 2994
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 363
 	}
 
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 191
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 69
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 20
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
@@ -5365,98 +5365,98 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 674
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 14
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 454
 	}
 
 	soldiers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 22
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 625
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 18
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
@@ -5512,21 +5512,21 @@
 	artisans=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
@@ -5535,14 +5535,14 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1381
 	}
 
@@ -5556,14 +5556,14 @@
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
@@ -5612,14 +5612,14 @@
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -5628,49 +5628,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 8
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2398
 	}
 
@@ -5728,49 +5728,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 18
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 37
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1729
 	}
 
@@ -5828,49 +5828,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 23
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1091
 	}
 
@@ -5928,49 +5928,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 28
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 57
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2745
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -6028,42 +6028,42 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 31
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1485
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
@@ -6119,7 +6119,7 @@
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -6128,49 +6128,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 21
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 35
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = totemism
+		religion = animist
 		size= 704
 	}
 
@@ -6228,49 +6228,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 26
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1246
 	}
 
@@ -6328,35 +6328,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 8
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 513
 	}
 
@@ -6414,14 +6414,14 @@
 	artisans=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 46
 	}
 
@@ -6479,21 +6479,21 @@
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	clerks=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 23
 	}
 
 	capitalists=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -6558,28 +6558,28 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 136
 	}
 
@@ -6637,21 +6637,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 86
 	}
 
@@ -6702,21 +6702,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 58
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -6767,35 +6767,35 @@
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 15
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 35
 	}
 
 	soldiers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 630
 	}
 
@@ -6804,35 +6804,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 450
 	}
 
@@ -6841,21 +6841,21 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 195
 	}
 
@@ -6906,35 +6906,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 20
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 360
 	}
 
@@ -6943,21 +6943,21 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 49
 	}
 
@@ -7013,21 +7013,21 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 95
 	}
 
@@ -7036,28 +7036,28 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 136
 	}
 
@@ -7115,21 +7115,21 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = totemism
+		religion = animist
 		size= 55
 	}
 
@@ -7187,35 +7187,35 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = totemism
+		religion = animist
 		size= 360
 	}
 
@@ -7273,35 +7273,35 @@
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 20
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 360
 	}
 

@@ -2,42 +2,42 @@
 	slaves=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 836
 	}
 
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 8
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 17
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 3
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 3
 	}
 

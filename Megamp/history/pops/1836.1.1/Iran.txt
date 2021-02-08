@@ -2160,49 +2160,49 @@
 	soldiers=
 	{
 		culture = persian
-		religion = zoroastrian
+		religion = sunni
 		size= 1169
 	}
 
 	artisans=
 	{
 		culture = persian
-		religion = zoroastrian
+		religion = sunni
 		size= 210
 	}
 
 	clergymen=
 	{
 		culture = persian
-		religion = zoroastrian
+		religion = sunni
 		size= 95
 	}
 
 	bureaucrats=
 	{
 		culture = persian
-		religion = zoroastrian
+		religion = sunni
 		size= 3
 	}
 
 	officers=
 	{
 		culture = persian
-		religion = zoroastrian
+		religion = sunni
 		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = persian
-		religion = zoroastrian
+		religion = sunni
 		size= 80
 	}
 
 	farmers=
 	{
 		culture = persian
-		religion = zoroastrian
+		religion = sunni
 		size= 11092
 	}
 
