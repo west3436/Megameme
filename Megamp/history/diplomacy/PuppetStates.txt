@@ -249,7 +249,7 @@ vassal=
 vassal=
 {
 	first="NET"
-	second="LNA"
+	second="MAD"
 	start_date="1580.4.2"
 	end_date="1936.1.1"
 }
