@@ -7,7 +7,7 @@ plurality = 0
 nationalvalue = nv_liberty
 literacy = 0.128801
 
-civilized = yes
+civilized = no
 
 # Social Reforms
 wage_reform = no_minimum_wage
