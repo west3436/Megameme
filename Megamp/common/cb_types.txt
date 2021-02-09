@@ -3405,6 +3405,11 @@ restore_british_raj = {
             tag = ORI
             tag = TRA
             tag = KUT
+            tag = MRT
+            tag = GDW
+            tag = GUJ
+            tag = RJP
+            tag = TRT
         }
         THIS = {
             tag = ENG
