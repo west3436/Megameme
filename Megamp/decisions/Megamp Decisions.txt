@@ -28,6 +28,7 @@ political_decisions = {
 	potential = {
             tag = SPA
             NOT = { exists = IBR }
+	    NOT = { has_country_flag = iberia_formed }
         }
 
         allow = {
@@ -61,6 +62,7 @@ political_decisions = {
 			525 =  { add_core = IBR }
 			526 =  { add_core = IBR }
 			527 =  { add_core = IBR }
+			set_country_flag = iberia_formed
 		ai_will_do = {
             factor = 1
         }
