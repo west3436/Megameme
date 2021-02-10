@@ -1,0 +1,8 @@
+owner=CLM
+controller=CLM
+add_core=ARW
+add_core=CLM
+add_core=UCA
+trade_goods = timber
+life_rating = 25
+terrain = jungle
