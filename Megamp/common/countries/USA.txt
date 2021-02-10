@@ -1,6 +1,8 @@
 graphical_culture = UsGC
 color = { 66  94  193 }
-
+prussian_constutionalism = { 209  90  92 }
+hms_government = { 209  90  92 }
+absolute_monarchy = { 209  90  92 }
 party = {
     name = "USA_conservative"
     start_date = 1800.1.1
