@@ -10077,21 +10077,21 @@
 169 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 2069
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 63803
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 6595
 	}
@@ -10498,98 +10498,98 @@
 173 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 17
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = vinlander
 		religion = protestant
-		size= 1685
+		size= 4685
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 16885
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = vinlander
 		religion = protestant
 		size= 68
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = vinlander
 		religion = protestant
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = vinlander
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = siouan
+		culture = vinlander
 		religion = protestant
 		size= 193
 	}
 
 	artisans=
 	{
-		culture = siouan
+		culture = vinlander
 		religion = protestant
 		size= 1833
 	}
 
 	clergymen=
 	{
-		culture = siouan
+		culture = vinlander
 		religion = protestant
 		size= 132
 	}
 
 	aristocrats=
 	{
-		culture = siouan
+		culture = vinlander
 		religion = protestant
 		size= 257
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = vinlander
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = vinlander
 		religion = protestant
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
+		culture = vinlander
 		religion = protestant
 		size= 28
 	}
 
 	officers=
 	{
-		culture = siouan
+		culture = vinlander
 		religion = protestant
 		size= 26
 	}
@@ -11161,49 +11161,49 @@
 179 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 2495
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 6069
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 438
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 162
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 135
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 566
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 57567
 	}
@@ -11212,133 +11212,133 @@
 180 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 2934
 	}
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 434
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 38082
 	}
 
 	soldiers=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 473
 	}
 
 	artisans=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 51
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 132
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 4051
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 12
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 293
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 378
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 152
 	}
@@ -11354,35 +11354,35 @@
 181 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 2084
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 5069
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 366
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 135
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 113
 	}
@@ -11396,7 +11396,7 @@
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 48079
 	}
@@ -18360,63 +18360,63 @@
 234 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 2347
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 72232
 	}
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 158
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 7556
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 546
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 704
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 285
 	}
 
 	officers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 134
 	}
@@ -18660,49 +18660,49 @@
 237 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 437
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 1746
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 284
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 105
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 35
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 367
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 40680
 	}
@@ -18711,49 +18711,49 @@
 238 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 2129
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 6843
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 495
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 183
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 122
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 639
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 65625
 	}
@@ -18813,140 +18813,140 @@
 240 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 34
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 1153
 	}
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 330
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 4
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 489
 	}
 
 	artisans=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 729
 	}
 
 	clergymen=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 119
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 62
 	}
 
 	officers=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 153
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = yankee
 		religion = protestant
 		size= 15868
 	}
@@ -19483,91 +19483,91 @@
 246 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 1974
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 60826
 	}
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = yankee
 		religion = protestant
 		size= 139
 	}
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 155
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 6364
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 459
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 593
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 169
 	}
 
 	officers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 148
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = yankee
 		religion = protestant
 		size= 1
 	}
@@ -19760,49 +19760,49 @@
 248 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 194
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 6630
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 141
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 29
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 7
 	}
 
 	officers=
 	{
-		culture = eastern_algonquian
+		culture = yankee
 		religion = protestant
 		size= 7
 	}
