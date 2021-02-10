@@ -2,56 +2,56 @@
 	slaves=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 8276
 	}
 
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 561
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 561
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 91
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 28
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 118
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 18394
 	}
 
@@ -116,56 +116,56 @@
 	slaves=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 9656
 	}
 
 	soldiers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 635
 	}
 
 	artisans=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 635
 	}
 
 	clergymen=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 103
 	}
 
 	bureaucrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 32
 	}
 
 	officers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 21
 	}
 
 	aristocrats=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 133
 	}
 
 	farmers=
 	{
 		culture = nguni
-		religion = shamanism
+		religion = animist
 		size= 20511
 	}
 

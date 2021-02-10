@@ -4057,49 +4057,49 @@
 	{
 		culture = french
 		religion = catholic
-		size= 1621
+		size= 8527
 	}
 
 	artisans=
 	{
 		culture = french
 		religion = catholic
-		size= 2324
+		size= 35324
 	}
 
 	clergymen=
 	{
 		culture = french
 		religion = catholic
-		size= 216
+		size= 3316
 	}
 
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 29
+		size= 709
 	}
 
 	officers=
 	{
 		culture = french
 		religion = catholic
-		size= 48
+		size= 548
 	}
 
 	aristocrats=
 	{
 		culture = french
 		religion = catholic
-		size= 209
+		size= 4209
 	}
 
 	farmers=
 	{
 		culture = french
 		religion = catholic
-		size= 13174
+		size= 90174
 	}
 
 	soldiers=

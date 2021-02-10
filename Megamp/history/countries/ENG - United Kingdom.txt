@@ -27,6 +27,7 @@ public_meetings=no_meeting
 press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
+border_policy = open_borders
 
 ruling_party = ENG_conservative
 upper_house = 
@@ -55,6 +56,7 @@ guild_based_production = 1
 late_enlightenment_philosophy = 1
 naval_design_bureaus = 1
 no_standard = 1
+piston_steam_engine = 1
 post_napoleonic_thought = 1
 post_nelsonian_thought = 1
 private_banks = 1

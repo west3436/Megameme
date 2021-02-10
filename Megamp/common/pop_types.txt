@@ -748,7 +748,6 @@ assimilation_chance =
         OR = {
             location = { continent = north_america }
             location = { continent = south_america }
-            location = { continent = australia_new_zealand }
         }
     }
 
@@ -835,7 +834,6 @@ assimilation_chance =
         OR = {
             location = { continent = north_america }
             location = { continent = south_america }
-            location = { continent = australia_new_zealand }
         }
     }
 
@@ -852,7 +850,6 @@ assimilation_chance =
         OR = {
             location = { continent = north_america }
             location = { continent = south_america }
-            location = { continent = australia_new_zealand }
         }
     }
 

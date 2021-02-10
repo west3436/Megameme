@@ -1,0 +1,44 @@
+country_event = {
+    id = 55000
+    title = "Admire the Suez Canal."
+    desc = "The Egyptian people stare in awe at the artificial river cut across their land."
+    picture = "Suez3"
+
+    trigger = {
+		NOT = { is_canal_enabled = 2 }
+        tag = TUR
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "It sure is wonderful."
+		enable_canal = 2
+		1755 = { set_province_flag = suez_canal }
+		set_global_flag = suez_canal_built
+    }
+}
+
+country_event = {
+    id = 55001
+    title = "Admire the Kiel Canal."
+    desc = "The Danish people stare in awe at the artificial river cut across their land."
+    picture = "kiel_canal_finished"
+
+    trigger = {
+		NOT = { is_canal_enabled = 1 }
+        tag = SCA
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "It sure is wonderful."
+		enable_canal = 1
+		369 = { set_province_flag = kiel_canal }
+    }
+}

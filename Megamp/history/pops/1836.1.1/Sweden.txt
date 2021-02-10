@@ -301,7 +301,7 @@
 320 = {
 	soldiers=
 	{
-		culture = sami
+		culture = norwegian
 		religion = catholic
 		size= 1033
 	}
@@ -343,7 +343,7 @@
 
 	farmers=
 	{
-		culture = sami
+		culture = swedish
 		religion = catholic
 		size= 5552
 	}
@@ -441,7 +441,7 @@
 
 	farmers=
 	{
-		culture = norwegian
+		culture = swedish
 		religion = protestant
 		size= 4725
 	}
@@ -706,7 +706,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 863
+		size= 8863
 	}
 
 	clergymen=

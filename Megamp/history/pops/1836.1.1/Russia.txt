@@ -3449,49 +3449,49 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 7233
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2666
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 248
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 34
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 40
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 160
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 95570
 	}
 
@@ -3749,49 +3749,49 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 32033
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1184
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 110
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 15
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 24
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 71
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 11942
 	}
 
@@ -4096,49 +4096,49 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2387
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 454
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 42
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 27
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 23022
 	}
 
@@ -7335,49 +7335,49 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2715
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2313
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 214
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 30
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 34
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 139
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 43044
 	}
 
@@ -7484,49 +7484,49 @@
 	soldiers=
 	{
 		culture = siberian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 861
 	}
 
 	artisans=
 	{
 		culture = siberian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 164
 	}
 
 	clergymen=
 	{
 		culture = siberian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 15
 	}
 
 	bureaucrats=
 	{
 		culture = siberian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = siberian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = siberian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = siberian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 8306
 	}
 
@@ -8071,49 +8071,49 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 411
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 350
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 32
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6508
 	}
 
@@ -8220,49 +8220,49 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1114
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 398
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 129
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 21
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 84
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 18112
 	}
 
@@ -8318,49 +8318,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1168
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 417
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 136
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 22
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 88
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 18989
 	}
 
@@ -8369,49 +8369,49 @@
 	soldiers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 603
 	}
 
 	artisans=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 115
 	}
 
 	clergymen=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 11
 	}
 
 	bureaucrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 7
 	}
 
 	farmers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5784
 	}
 
@@ -8567,35 +8567,35 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 9
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 156
 	}
 
@@ -8746,49 +8746,49 @@
 	soldiers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 330
 	}
 
 	artisans=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 125
 	}
 
 	clergymen=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12
 	}
 
 	bureaucrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 8
 	}
 
 	farmers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3105
 	}
 
@@ -8893,49 +8893,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 206
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 156
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 14
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 9
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1840
 	}
 
@@ -8944,49 +8944,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 116
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 21
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1923
 	}
 
@@ -9093,42 +9093,42 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 28
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 463
 	}
 
@@ -9186,21 +9186,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 85
 	}
 
@@ -9288,35 +9288,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 13
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 219
 	}
 
@@ -9374,21 +9374,21 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 87
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -9444,21 +9444,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 66
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -9467,35 +9467,35 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	clergymen=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 260
 	}
 
@@ -9588,49 +9588,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 796
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 249
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 23
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 13097
 	}
 
@@ -9730,28 +9730,28 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 93
 	}
 
@@ -9802,49 +9802,49 @@
 	soldiers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 644
 	}
 
 	artisans=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 245
 	}
 
 	clergymen=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 22
 	}
 
 	bureaucrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 14
 	}
 
 	farmers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6045
 	}
 
@@ -9949,49 +9949,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 400
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 304
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 28
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 18
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3585
 	}
 
@@ -10000,49 +10000,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 639
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 799
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 74
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 15
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 48
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 9823
 	}
 
@@ -10100,63 +10100,63 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 504
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 315
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 29
 	}
 
 	clerks=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 28
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	capitalists=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 19
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6260
 	}
 
@@ -10291,21 +10291,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 51
 	}
 
@@ -10349,49 +10349,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 157
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 56
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 18
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2550
 	}
 
@@ -10449,49 +10449,49 @@
 	soldiers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2686
 	}
 
 	artisans=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 925
 	}
 
 	clergymen=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 86
 	}
 
 	bureaucrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12
 	}
 
 	officers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 19
 	}
 
 	aristocrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 83
 	}
 
 	farmers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 25394
 	}
 
@@ -10647,49 +10647,49 @@
 	soldiers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2499
 	}
 
 	artisans=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 940
 	}
 
 	clergymen=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 87
 	}
 
 	bureaucrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12
 	}
 
 	officers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 19
 	}
 
 	aristocrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 84
 	}
 
 	farmers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 23522
 	}
 
@@ -10838,49 +10838,49 @@
 	soldiers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 16
 	}
 
 	bureaucrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4818
 	}
 
@@ -10987,49 +10987,49 @@
 	soldiers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1421
 	}
 
 	artisans=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 254
 	}
 
 	clergymen=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 82
 	}
 
 	bureaucrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 14
 	}
 
 	officers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 13
 	}
 
 	aristocrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 54
 	}
 
 	farmers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 23540
 	}
 
@@ -11915,35 +11915,35 @@
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 10
 	}
 
 	soldiers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 230
 	}
 
@@ -11952,21 +11952,21 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 38
 	}
 
@@ -12047,28 +12047,28 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 89
 	}
 
@@ -12119,14 +12119,14 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 45
 	}
 
@@ -12182,14 +12182,14 @@
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 34
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -12198,49 +12198,49 @@
 	soldiers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1139
 	}
 
 	artisans=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 712
 	}
 
 	clergymen=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 66
 	}
 
 	bureaucrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 9
 	}
 
 	officers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 11
 	}
 
 	aristocrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 43
 	}
 
 	farmers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 18366
 	}
 
@@ -12340,21 +12340,21 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 60
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -12433,7 +12433,7 @@
 	farmers=
 	{
 		culture = aromanian
-		religion = 
+		religion = animist
 		size= 775
 	}
 
@@ -12442,21 +12442,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 60
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
@@ -12565,21 +12565,21 @@
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 19
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 36
 	}
 
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -12637,14 +12637,14 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 45
 	}
 
@@ -12700,14 +12700,14 @@
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 34
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -12716,21 +12716,21 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 64
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -12774,28 +12774,28 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 128
 	}
 
 	clergymen=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -12846,21 +12846,21 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 58
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -12904,21 +12904,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 56
 	}
 
@@ -12962,21 +12962,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 60
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
@@ -13041,35 +13041,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 156
 	}
 
@@ -13127,35 +13127,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 117
 	}
 
@@ -13243,35 +13243,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 20
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 7
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 322
 	}
 
@@ -13329,35 +13329,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 199
 	}
 
@@ -13566,49 +13566,49 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 212
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 76
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 25
 	}
 
 	bureaucrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 16
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3458
 	}
 
@@ -13703,35 +13703,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 33
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 543
 	}
 
@@ -14002,21 +14002,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 47
 	}
 
@@ -14178,14 +14178,14 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 58
 	}
 
@@ -14303,14 +14303,14 @@
 	soldiers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 45
 	}
 
@@ -14366,14 +14366,14 @@
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 34
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
@@ -14456,35 +14456,35 @@
 	aristocrats=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 4
 	}
 
 	soldiers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = eskaleut
-		religion = shamanism
+		religion = animist
 		size= 135
 	}
 
@@ -14567,35 +14567,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 20
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 7
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 324
 	}
 
@@ -14727,42 +14727,42 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 48
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 17
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 786
 	}
 
@@ -14973,21 +14973,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 47
 	}
 
@@ -15031,21 +15031,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 47
 	}
 
@@ -15126,28 +15126,28 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 79
 	}
 
@@ -15198,28 +15198,28 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 81
 	}
 
@@ -15445,21 +15445,21 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 53
 	}
 
@@ -15468,21 +15468,21 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 38
 	}
 
@@ -15526,42 +15526,42 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 40
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 14
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 660
 	}
 
@@ -15856,42 +15856,42 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 27
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 438
 	}
 
@@ -15949,21 +15949,21 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 45
 	}
 
@@ -16014,35 +16014,35 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 3
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 160
 	}
 
@@ -16100,28 +16100,28 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 83
 	}
 
@@ -16209,21 +16209,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 48
 	}
 
@@ -16267,35 +16267,35 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 28
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 450
 	}
 
@@ -16353,21 +16353,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 51
 	}
 
@@ -16411,49 +16411,49 @@
 	soldiers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 55
 	}
 
 	artisans=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 28
 	}
 
 	clergymen=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 9
 	}
 
 	bureaucrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	farmers=
 	{
 		culture = manchu
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2671
 	}
 
@@ -16560,49 +16560,49 @@
 	soldiers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 310
 	}
 
 	artisans=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 118
 	}
 
 	clergymen=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 11
 	}
 
 	bureaucrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 7
 	}
 
 	farmers=
 	{
 		culture = kirgiz
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2927
 	}
 
@@ -16746,35 +16746,35 @@
 	soldiers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 41
 	}
 
 	artisans=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 26
 	}
 
 	clergymen=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = ugrian
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 662
 	}
 
@@ -16881,21 +16881,21 @@
 	soldiers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = yakut
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 47
 	}
 
