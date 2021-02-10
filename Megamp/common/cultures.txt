@@ -2342,7 +2342,7 @@ neo_european_cultures = {
 		
 	}
 	vinlander = {
-		color = { 76 73 172 }
+		color = { 42  127  98 }
 		
 		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
 		
