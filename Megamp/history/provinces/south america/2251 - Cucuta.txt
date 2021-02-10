@@ -1,6 +1,7 @@
 owner=CLM
 controller=CLM
 add_core=MCA
+add_core=CLM
 trade_goods = coal
 life_rating = 30
 terrain = mountain
