@@ -824,10 +824,9 @@ political_decisions = {
                 all_core = {
                     OR = {
                         owned_by = THIS
-                        AND = {
-                            is_core = VEN
-                            owner = {
-                                NOT = { is_culture_group = italian }
+                        owner = {
+				is_greater_power = yes
+				NOT = { is_culture_group = italian }
                             }
                         }
                         # AND = {
