@@ -10,6 +10,8 @@ literacy = 0.452344
 
 civilized = yes
 
+set_country_flag = new_world_nation
+
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
