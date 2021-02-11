@@ -3,6 +3,6 @@ controller=NET
 add_core=FRI
 add_core=NET
 trade_goods = grain
-life_rating = 35
+life_rating = 40
 terrain = farmlands
 fort = 1
