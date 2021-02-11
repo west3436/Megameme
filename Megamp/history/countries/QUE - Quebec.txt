@@ -29,8 +29,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 border_policy = open_borders
-
-border_policy = open_borders
+debt_law = peonage
 
 ruling_party = ICL_liberal
 upper_house = 

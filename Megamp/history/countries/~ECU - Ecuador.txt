@@ -1,12 +1,13 @@
-capital = 2324
+capital = 2295
 primary_culture = south_andean
-culture = platinean
+culture = chibchan
+culture = quechua
 culture = zzz_religion_catholic
 religion = catholic
-government = presidential_dictatorship
+government = democracy
 plurality = 0
-nationalvalue = nv_liberty
-literacy = 0
+nationalvalue = nv_order
+literacy = 0.452344
 
 civilized = yes
 set_country_flag = new_world_nation
@@ -22,32 +23,44 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=none_voting
+vote_franschise=wealth_weighted_voting
 upper_house_composition=state_equal_weight
 voting_system=jefferson_method
-public_meetings=no_meeting
+public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=all_trade_unions
-political_parties=non_secret_ballots
+political_parties=gerrymandering
 border_policy = open_borders
 
-ruling_party = CHL_conservative
+ruling_party = ECU_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 13
+	conservative = 82
+	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
 # Starting Consciousness
-consciousness = 2
-nonstate_consciousness= 0
+consciousness = 1.39233
+nonstate_consciousness= 0.235068
 
 # Technologies
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+late_enlightenment_philosophy = 1
+no_standard = 1
+private_banks = 1
+publishing_industry = 1
+water_wheel_power = 1
 prestige=0
-oob = "CHL_OOB.txt"
+oob = "ECU_OOB.txt"
 set_country_flag = religi
