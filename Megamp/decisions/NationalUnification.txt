@@ -847,8 +847,8 @@ political_decisions = {
                         }
                     }
                 }
-            }
-        }
+		}
+        
 
         effect = {
             prestige = 20
@@ -1525,5 +1525,5 @@ political_decisions = {
 
         ai_will_do = { factor = 1 }
     }
-
 }
+
