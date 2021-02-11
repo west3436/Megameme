@@ -2,7 +2,7 @@ color = { 84  96  136 }
 graphical_culture = AsianGC
 
 party = {
-    name = "NIP_reactionary"
+    name = "RYU_reactionary"
     start_date = 1835.1.1
     end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-    name = "NIP_liberal"
+    name = "RYU_liberal"
     start_date = 1835.1.1
     end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-    name = "NIP_conservative"
+    name = "RYU_conservative"
     start_date = 1835.1.1
     end_date = 2000.1.1
 
@@ -47,8 +47,8 @@ party = {
 }
 
 party = {
-    name = "NIP_anarcho_liberal"
-    start_date = 1815.1.1
+    name = "RYU_anarcho_liberal"
+    start_date = 1830.1.1
     end_date = 2000.1.1
 
     ideology = anarcho_liberal
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-    name = "NIP_socialist"
+    name = "RYU_socialist"
     start_date = 1840.1.1
     end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-    name = "NIP_communist"
+    name = "RYU_communist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-    name = "NIP_fascist"
+    name = "RYU_fascist"
     start_date = 1900.1.1
     end_date = 2000.1.1
 
