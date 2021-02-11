@@ -1,5 +1,5 @@
-owner=NZL
-controller=NZL
+owner=SCA
+controller=SCA
 add_core=NZL
 trade_goods = tropical_wood
 life_rating = 15
