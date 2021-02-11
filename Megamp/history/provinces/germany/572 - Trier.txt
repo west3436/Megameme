@@ -1,5 +1,6 @@
-owner=RHI
-controller=RHI
+owner=PRU
+controller=PRU
+add_core=PRU
 add_core=GER
 add_core=RHI
 trade_goods = iron

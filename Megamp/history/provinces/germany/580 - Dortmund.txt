@@ -1,8 +1,7 @@
-owner=PRU
-controller=PRU
+owner=WES
+controller=WES
+add_core=WES
 add_core=GER
-add_core=HRE
-add_core=PRU
 trade_goods = coal
 life_rating = 40
 terrain = plains
