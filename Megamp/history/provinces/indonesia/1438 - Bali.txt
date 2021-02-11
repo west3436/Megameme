@@ -1,8 +1,9 @@
-owner = JAV
-controller = JAV
+owner = NET
+controller = NET
 add_core = JAV
 trade_goods = fish
 life_rating = 35
+colonial = 2
 1860.1.1 = {
     owner = NET
     controller = NET
