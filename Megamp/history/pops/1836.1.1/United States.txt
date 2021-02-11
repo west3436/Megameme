@@ -7630,6 +7630,13 @@
 		size= 3960
 	}
 
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 100
+	}
+
 }
 148 = {
 	slaves=
@@ -7770,6 +7777,13 @@
 		culture = central_algonquian
 		religion = protestant
 		size= 15
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 100
 	}
 
 }
@@ -7935,6 +7949,13 @@
 		size= 8495
 	}
 
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 100
+	}
+
 }
 150 = {
 	slaves=
@@ -8051,49 +8072,49 @@
 
 	soldiers=
 	{
-		culture = dixie
+		culture = yankee
 		religion = protestant
 		size= 106
 	}
 
 	artisans=
 	{
-		culture = dixie
+		culture = yankee
 		religion = protestant
 		size= 491
 	}
 
 	clergymen=
 	{
-		culture = dixie
+		culture = yankee
 		religion = protestant
 		size= 80
 	}
 
 	bureaucrats=
 	{
-		culture = dixie
+		culture = yankee
 		religion = protestant
 		size= 37
 	}
 
 	officers=
 	{
-		culture = dixie
+		culture = yankee
 		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = dixie
+		culture = yankee
 		religion = protestant
 		size= 103
 	}
 
 	farmers=
 	{
-		culture = dixie
+		culture = yankee
 		religion = protestant
 		size= 8984
 	}
@@ -9838,6 +9859,13 @@
 		size= 46
 	}
 
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 100
+	}
+
 }
 167 = {
 	soldiers=
@@ -9929,6 +9957,13 @@
 		culture = caddoan
 		religion = protestant
 		size= 146
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 100
 	}
 
 }
@@ -10229,6 +10264,13 @@
 		culture = central_algonquian
 		religion = protestant
 		size= 40826
+	}
+	
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 100
 	}
 
 }
@@ -11680,58 +11722,58 @@
 		size= 4
 	}
 
-	slaves=
+	farmers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 10022
 	}
 
 	soldiers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 994
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 3392
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 245
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 113
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 61
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 634
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 20074
 	}
@@ -12194,42 +12236,42 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 59
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 400
 	}
@@ -12257,49 +12299,49 @@
 
 	soldiers=
 	{
-		culture = caddoan
+		culture = dixie
 		religion = protestant
 		size= 2499
 	}
 
 	artisans=
 	{
-		culture = caddoan
+		culture = dixie
 		religion = protestant
 		size= 3766
 	}
 
 	clergymen=
 	{
-		culture = caddoan
+		culture = dixie
 		religion = protestant
 		size= 612
 	}
 
 	bureaucrats=
 	{
-		culture = caddoan
+		culture = dixie
 		religion = protestant
 		size= 282
 	}
 
 	officers=
 	{
-		culture = caddoan
+		culture = dixie
 		religion = protestant
 		size= 151
 	}
 
 	aristocrats=
 	{
-		culture = caddoan
+		culture = dixie
 		religion = protestant
 		size= 791
 	}
 
 	farmers=
 	{
-		culture = caddoan
+		culture = dixie
 		religion = protestant
 		size= 67653
 	}
@@ -12308,56 +12350,56 @@
 189 = {
 	slaves=
 	{
-		culture = americano
+		culture = afro_american
 		religion = protestant
 		size= 7995
 	}
 
 	soldiers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 895
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 2878
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 208
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 64
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 51
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 269
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = dixie
 		religion = protestant
 		size= 19618
 	}
@@ -18807,6 +18849,13 @@
 		culture = iroquoian
 		religion = protestant
 		size= 26523
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 100
 	}
 
 }
