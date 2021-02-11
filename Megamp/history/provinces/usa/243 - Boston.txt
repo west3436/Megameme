@@ -1,6 +1,7 @@
 owner=QUE
 controller=QUE
 add_core=QUE
+add_core=USA
 trade_goods = grain
 life_rating = 40
 terrain = farmlands

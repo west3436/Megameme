@@ -202,49 +202,49 @@
 	soldiers=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 329
 	}
 
 	artisans=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 30
 	}
 
 	clergymen=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 9
 	}
 
 	bureaucrats=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 7
 	}
 
 	farmers=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 5505
 	}
 
@@ -649,49 +649,49 @@
 	soldiers=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 748
 	}
 
 	artisans=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 158
 	}
 
 	clergymen=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 26
 	}
 
 	bureaucrats=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 8
 	}
 
 	officers=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 33
 	}
 
 	farmers=
 	{
 		culture = mongol
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 12375
 	}
 
@@ -749,49 +749,49 @@
 	soldiers=
 	{
 		culture = uighur
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 416
 	}
 
 	artisans=
 	{
 		culture = uighur
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 129
 	}
 
 	clergymen=
 	{
 		culture = uighur
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 42
 	}
 
 	bureaucrats=
 	{
 		culture = uighur
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
 		culture = uighur
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = uighur
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 40
 	}
 
 	farmers=
 	{
 		culture = uighur
-		religion = tengri_pagan_reformed
+		religion = animist
 		size= 6787
 	}
 

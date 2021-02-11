@@ -2,42 +2,42 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 38
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 78
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 12
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 17
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 3741
 	}
 
@@ -93,7 +93,7 @@
 	officers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -272,42 +272,42 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 8
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 38
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 784
 	}
 
@@ -316,21 +316,21 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 12
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 596
 	}
 
@@ -379,14 +379,14 @@
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -402,42 +402,42 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 20
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 40
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1935
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
@@ -495,91 +495,91 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2581
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 415
 	}
 
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 49
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -686,42 +686,42 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 22
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 756
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 53
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 30
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
@@ -777,7 +777,7 @@
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -786,42 +786,42 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 209
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 34
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -921,21 +921,21 @@
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1064
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 34
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 25
 	}
 
@@ -949,28 +949,28 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
@@ -1170,42 +1170,42 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 242
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
@@ -1349,35 +1349,35 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = totemism
+		religion = animist
 		size= 6
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = totemism
+		religion = animist
 		size= 585
 	}
 
@@ -1435,28 +1435,28 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 6
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 549
 	}
 
@@ -1756,14 +1756,14 @@
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2890
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3159
 	}
 
@@ -1777,7 +1777,7 @@
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 72
 	}
 
@@ -1798,42 +1798,42 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 29
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 66
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 13
 	}
 
@@ -1938,35 +1938,35 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 32
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 11
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 15
 	}
 
@@ -2038,14 +2038,14 @@
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2001
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2193
 	}
 
@@ -2059,7 +2059,7 @@
 	artisans=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 49
 	}
 
@@ -2073,42 +2073,42 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 20
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 47
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
@@ -2213,35 +2213,35 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 22
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 8
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = totemism
+		religion = animist
 		size= 10
 	}
 
@@ -2492,42 +2492,42 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 9
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 19
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 3
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = totemism
+		religion = animist
 		size= 895
 	}
 
@@ -3183,49 +3183,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 40
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 80
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 26
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 17
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 3829
 	}
 
@@ -3381,49 +3381,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 124
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 131
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 22
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 5
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 27
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 6223
 	}
 
@@ -3481,49 +3481,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 76
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 152
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 25
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 5
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 32
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 7324
 	}
 
@@ -5220,49 +5220,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 126
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 629
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 45
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 10
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 59
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 11684
 	}
 
@@ -5816,49 +5816,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 133
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 265
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 43
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 56
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 12761
 	}
 
@@ -6014,49 +6014,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 23
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 47
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 8
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 2240
 	}
 
@@ -6114,49 +6114,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 287
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 1292
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 92
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 20
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 242
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 26751
 	}
 
@@ -6214,49 +6214,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 215
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 794
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 37
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 8
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 47
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 10246
 	}
 
@@ -6314,49 +6314,49 @@
 	soldiers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 135
 	}
 
 	artisans=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 604
 	}
 
 	clergymen=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 44
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 10
 	}
 
 	officers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 113
 	}
 
 	farmers=
 	{
 		culture = mayan
-		religion = mayan
+		religion = animist
 		size= 12522
 	}
 

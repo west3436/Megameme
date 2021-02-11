@@ -2,7 +2,7 @@ SCA;Kalmar Commonwealth;;;;;;;;;;;;x
 SCA_ADJ;Kalmar;;;;;;;;;;;;x
 SCA_democracy;Kalmar Republic;;;;;;;;;;;;x
 SCA_democracy_ADJ;Kalmar;;;;;;;;;;;;x
-SCA_proletarian_dictatorship;Kalmar Union;;;;;;;;;;;;x
+SCA_proletarian_dictatorship;Kalmar People's Union;;;;;;;;;;;;x
 SCA_proletarian_dictatorship_ADJ;Kalmar;;;;;;;;;;;;x
 SCA_fascist_dictatorship;Kalmar State;;;;;;;;;;;;x
 SCA_fascist_dictatorship_ADJ;Kalmar;;;;;;;;;;;;x
@@ -46,3 +46,7 @@ X01_hms_government;Far Eastern Governate;;;;;;;;;;;;;x
 X01_absolute_monarchy_ADJ;Manchurian;;;;;;;;;;;;;x
 X01_prussian_constitutionalism_ADJ;Manchurian;;;;;;;;;;;;;x
 X01_hms_government_ADJ;Manchurian;;;;;;;;;;;;;x
+PRU_democracy;Prussian Republic;;;;;;;;;;;;x
+PRU_democracy_ADJ;Prussian;;;;;;;;;;;;x
+PRU_presidential_dictatorship;Prussian Republic;;;;;;;;;;;;x
+PRU_presidential_dictatorship_ADJ;Prussian;;;;;;;;;;;;x

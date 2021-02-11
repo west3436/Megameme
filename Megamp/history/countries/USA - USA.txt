@@ -10,6 +10,8 @@ literacy = 0.452344
 
 civilized = yes
 
+set_country_flag = new_world_nation
+
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
@@ -28,6 +30,7 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
+border_policy = open_borders
 
 ruling_party = USA_conservative
 upper_house = 

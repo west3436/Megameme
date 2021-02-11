@@ -101,84 +101,84 @@
 337 = {
 	soldiers=
 	{
-		culture = sami
+		culture = finnish
 		religion = catholic
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = sami
+		culture = finnish
 		religion = catholic
 		size= 34
 	}
 
 	clergymen=
 	{
-		culture = sami
+		culture = finnish
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = sami
+		culture = finnish
 		religion = catholic
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = sami
+		culture = finnish
 		religion = catholic
 		size= 1868
 	}
 
 	soldiers=
 	{
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size= 117
 	}
 
 	clergymen=
 	{
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size= 115
 	}
 
 	bureaucrats=
 	{
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size= 1
 	}

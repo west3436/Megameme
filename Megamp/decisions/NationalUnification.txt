@@ -824,10 +824,9 @@ political_decisions = {
                 all_core = {
                     OR = {
                         owned_by = THIS
-                        AND = {
-                            is_core = VEN
-                            owner = {
-                                NOT = { is_culture_group = italian }
+                        owner = {
+				is_greater_power = yes
+				NOT = { is_culture_group = italian }
                             }
                         }
                         # AND = {
@@ -848,8 +847,8 @@ political_decisions = {
                         }
                     }
                 }
-            }
-        }
+		}
+        
 
         effect = {
             prestige = 20
@@ -1526,5 +1525,5 @@ political_decisions = {
 
         ai_will_do = { factor = 1 }
     }
-
 }
+
