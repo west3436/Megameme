@@ -4,6 +4,6 @@ add_core=FRA
 add_core=OCC
 add_core=PRO
 trade_goods = silk
-life_rating = 33
+life_rating = 35
 terrain = farmlands
 fort = 1
