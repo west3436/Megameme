@@ -55,11 +55,7 @@ province_event = {
         }
         OR = {
             terrain = hills
-            terrain = hills
             terrain = mountain
-            terrain = woods
-            terrain = mountains
-            terrain = mountains
             terrain = woods
         }
     }
@@ -70,7 +66,7 @@ province_event = {
             factor = 1.5
             OR = {
                 terrain = woods
-                terrain = montane_forest
+                terrain = forest
             }
         }
         modifier = {
@@ -166,11 +162,7 @@ province_event = {
         }
         OR = {
             terrain = hills
-            terrain = hills
             terrain = mountain
-            terrain = woods
-            terrain = mountains
-            terrain = mountains
             terrain = woods
         }
     }
@@ -181,7 +173,7 @@ province_event = {
             factor = 1.5
             OR = {
                 terrain = woods
-                terrain = montane_forest
+                terrain = forest
             }
         }
         modifier = {
@@ -277,11 +269,7 @@ province_event = {
         }
         OR = {
             terrain = hills
-            terrain = hills
             terrain = mountain
-            terrain = woods
-            terrain = mountains
-            terrain = mountains
             terrain = woods
         }
     }
@@ -292,7 +280,7 @@ province_event = {
             factor = 1.5
             OR = {
                 terrain = woods
-                terrain = montane_forest
+                terrain = forest
             }
         }
         modifier = {
@@ -724,7 +712,7 @@ province_event = {
             terrain = forest
             terrain = jungle
             terrain = jungle
-            terrain = montane_forest
+            terrain = forest
         }
     }
 
@@ -931,7 +919,7 @@ province_event = {
         }
         OR = {
             terrain = mountain
-            terrain = montane_forest
+            terrain = forest
             terrain = hills
             terrain = hills
             terrain = farmlands
@@ -1244,12 +1232,12 @@ province_event = {
         }
         OR = {
             terrain = forest
-            terrain = montane_forest
+            terrain = forest
             terrain = forest
             terrain = hills
             terrain = jungle
             terrain = jungle
-            terrain = new_world_forest
+            terrain = forest
         }
     }
 
@@ -1348,7 +1336,7 @@ province_event = {
         }
         OR = {
             terrain = jungle
-            terrain = montane_forest
+            terrain = forest
             terrain = jungle
         }
     }

@@ -22,7 +22,7 @@ province_event = {
             terrain = mountain
             terrain = plains
             terrain = plains
-            terrain = mountains
+            terrain = mountain
         }
         OR = {
             trade_goods = tobacco
@@ -175,7 +175,7 @@ province_event = {
                         terrain = mountain
                         terrain = plains
                         terrain = plains
-                        terrain = mountains
+                        terrain = mountain
                     }
                     OR = {
                         trade_goods = tobacco
@@ -223,7 +223,7 @@ province_event = {
                         terrain = mountain
                         terrain = plains
                         terrain = plains
-                        terrain = mountains
+                        terrain = mountain
                     }
                     OR = {
                         trade_goods = tobacco
@@ -250,7 +250,7 @@ province_event = {
                                 terrain = mountain
                                 terrain = plains
                                 terrain = plains
-                                terrain = mountains
+                                terrain = mountain
                             }
                             OR = {
                                 trade_goods = tobacco
@@ -300,7 +300,7 @@ province_event = {
                         terrain = mountain
                         terrain = plains
                         terrain = plains
-                        terrain = mountains
+                        terrain = mountain
                     }
                     OR = {
                         trade_goods = tobacco
@@ -342,7 +342,7 @@ province_event = {
                                 terrain = mountain
                                 terrain = plains
                                 terrain = plains
-                                terrain = mountains
+                                terrain = mountain
                             }
                             OR = {
                                 trade_goods = tobacco
@@ -370,7 +370,7 @@ province_event = {
                                 terrain = mountain
                                 terrain = plains
                                 terrain = plains
-                                terrain = mountains
+                                terrain = mountain
                             }
                             OR = {
                                 trade_goods = tobacco
@@ -420,7 +420,7 @@ province_event = {
                         terrain = mountain
                         terrain = plains
                         terrain = plains
-                        terrain = mountains
+                        terrain = mountain
                     }
                     OR = {
                         trade_goods = tobacco
@@ -462,7 +462,7 @@ province_event = {
                                 terrain = mountain
                                 terrain = plains
                                 terrain = plains
-                                terrain = mountains
+                                terrain = mountain
                             }
                             OR = {
                                 trade_goods = tobacco
@@ -490,7 +490,7 @@ province_event = {
                                 terrain = mountain
                                 terrain = plains
                                 terrain = plains
-                                terrain = mountains
+                                terrain = mountain
                             }
                             OR = {
                                 trade_goods = tobacco
@@ -540,7 +540,7 @@ province_event = {
                         terrain = mountain
                         terrain = plains
                         terrain = plains
-                        terrain = mountains
+                        terrain = mountain
                     }
                     OR = {
                         trade_goods = tobacco
@@ -582,7 +582,7 @@ province_event = {
                                 terrain = mountain
                                 terrain = plains
                                 terrain = plains
-                                terrain = mountains
+                                terrain = mountain
                             }
                             OR = {
                                 trade_goods = tobacco
@@ -610,7 +610,7 @@ province_event = {
                                 terrain = mountain
                                 terrain = plains
                                 terrain = plains
-                                terrain = mountains
+                                terrain = mountain
                             }
                             OR = {
                                 trade_goods = tobacco
