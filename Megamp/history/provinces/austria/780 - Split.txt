@@ -1,7 +1,6 @@
 owner=TUR
 controller=TUR
 add_core=DLM
-add_core=ITA
 trade_goods = fish
 life_rating = 35
 terrain = hills

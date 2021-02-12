@@ -825,16 +825,9 @@ political_decisions = {
                     OR = {
                         owned_by = THIS
                         owner = {
-				is_greater_power = yes
-				NOT = { is_culture_group = italian }
-                            }
+                            is_greater_power = yes
+                            NOT = { is_culture_group = italian }
                         }
-                        # AND = {
-                            # is_core = LOM
-                            # owner = {
-                                # NOT = { is_culture_group = italian }
-                            # }
-                        # }
                         owner = {
                             in_sphere = THIS
                             OR = {
@@ -847,8 +840,8 @@ political_decisions = {
                         }
                     }
                 }
-		}
-        
+            }
+        }
 
         effect = {
             prestige = 20
@@ -1033,9 +1026,9 @@ political_decisions = {
                 change_province_name = "Kolmar"
             }
             409 = {
-                change_province_name = "Straßburg"
+                change_province_name = "Straï¿½burg"
                 state_scope = {
-                    change_region_name = "Elsaß-Lothringen"
+                    change_region_name = "Elsaï¿½-Lothringen"
                 }
             }
             prestige = 5

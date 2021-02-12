@@ -204,9 +204,17 @@ country_event = {
                 vassal_of = THIS
             }
             all_core = { add_core = PRU }
-            annex_to = THIS
+            country_event = 11101
         }
 
+        any_country = {
+            limit = {
+                NOT = { is_culture_group = germanic }
+                vassal_of = THIS
+            }
+            country_event = 55003
+        }
+        
         any_country = {
             limit = {
                 alliance_with = THIS
@@ -219,8 +227,23 @@ country_event = {
             relation = { who = THIS value = -100 }
             leave_alliance = THIS
         }
+    }
+}
 
-        leave_alliance = BOH
-        release_vassal = BOH
+country_event = {
+    id = 55003
+    name = "King of Prussia abdicates"
+    desc = ""
+    picture = "Celebration"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "The King will still rule in $COUNTRY$"
+        FROM = {
+            release_vassal = THIS
+        }
+        relation = { who = FROM value = -150 }
+        leave_alliance = FROM
     }
 }
