@@ -25,10 +25,10 @@ political_decisions = {
 	}
 	
 	form_iberian_union = {
-	potential = {
+		potential = {
             tag = SPA
             NOT = { exists = IBR }
-	    NOT = { has_country_flag = iberia_formed }
+	    	NOT = { has_country_flag = iberia_formed }
         }
 
         allow = {
@@ -63,9 +63,42 @@ political_decisions = {
 			526 =  { add_core = IBR }
 			527 =  { add_core = IBR }
 			set_country_flag = iberia_formed
-		ai_will_do = {
-            factor = 1
-        }
-    }
-}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+
+	integrate_eriksland = {
+		potential = {
+			tag = QUE
+			exists = X16
+			NOT = { has_country_flag = eriksland_integrated }
+		}
+
+		allow = {
+			war = no
+			X16 = {
+				war = no
+				is_mobilised = no
+			}
+			state_n_government = 1
+		}
+
+		effect = {
+			prestige = 10
+			X16 = {
+				all_core = { 
+					add_core = QUE
+					remove_core = X16
+				}
+				annex_to = QUE
+			}
+			set_country_flag = eriksland_integrated
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
 }
