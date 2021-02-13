@@ -1,7 +1,6 @@
 owner=SCA
 controller=SCA
-add_core=DAI
-add_core=IDO
+add_core=CHI
 trade_goods = grain
 life_rating = 30
 terrain = mountain

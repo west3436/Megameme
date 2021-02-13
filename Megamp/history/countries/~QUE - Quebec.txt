@@ -1,4 +1,4 @@
-capital = 78
+capital = 65
 primary_culture = vinlander
 culture = zzz_religion_protestant
 religion = protestant
@@ -20,7 +20,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=no_slavery
+slavery=yes_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
@@ -29,15 +29,14 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 border_policy = open_borders
+debt_law = peonage
 
-border_policy = open_borders
-
-ruling_party = X16_conservative
+ruling_party = ICL_liberal
 upper_house = 
 {
 	fascist = 0
-	liberal = 12
-	conservative = 83
+	liberal = 13
+	conservative = 82
 	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
@@ -45,12 +44,10 @@ upper_house =
 }
 
 # Starting Consciousness
-consciousness = 1.36993
-nonstate_consciousness= 0.0126719
+consciousness = 1.77917
+nonstate_consciousness= 0.256556
 
 # Technologies
-alphabetic_flag_signaling = 1
-battleship_column_doctrine = 1
 bronze_muzzle_loaded_artillery = 1
 classicism_n_early_romanticism = 1
 clipper_design = 1
@@ -59,6 +56,7 @@ enlightenment_thought = 1
 flintlock_rifles = 1
 freedom_of_trade = 1
 guild_based_production = 1
+introspectionism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1
 mechanized_mining = 1
@@ -67,8 +65,10 @@ no_standard = 1
 post_nelsonian_thought = 1
 private_banks = 1
 publishing_industry = 1
+romanticism = 1
+stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
 prestige=0
-oob = "X16_OOB.txt"
+oob = "QUE_OOB.txt"
 set_country_flag = religi
