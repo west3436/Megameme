@@ -242,8 +242,11 @@ country_event = {
         name = "The King will still rule in $COUNTRY$"
         FROM = {
             release_vassal = THIS
+            end_military_access = THIS
+
         }
         relation = { who = FROM value = -150 }
         leave_alliance = FROM
+        end_military_access = FROM
     }
 }
