@@ -82,7 +82,23 @@ political_decisions = {
 				war = no
 				is_mobilised = no
 			}
-			state_n_government = 1
+			OR = {
+				USA = { is_greater_power = yes }
+				NOT = {
+					173 = { owned_by = QUE }
+					174 = { owned_by = QUE }
+					175 = { owned_by = QUE }
+					176 = { owned_by = QUE }
+					241 = { owned_by = QUE }
+					242 = { owned_by = QUE }
+					243 = { owned_by = QUE }
+					244 = { owned_by = QUE }
+					245 = { owned_by = QUE }
+					246 = { owned_by = QUE }
+					247 = { owned_by = QUE }
+					248 = { owned_by = QUE }
+				}
+			}
 		}
 
 		effect = {
