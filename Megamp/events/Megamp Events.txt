@@ -42,3 +42,67 @@ country_event = {
 		369 = { set_province_flag = kiel_canal }
     }
 }
+
+country_event = {
+    id = 55004
+    title = "American Autonomy"
+    desc = "The American nation has solidified its place among the Great Powers of the world - it is time to assert ourselves as an autonomous nation by establishing an American Parliament separate from the British Empire's."
+    picture = "autocracy"
+
+    trigger = {
+		is_greater_power = yes
+        tag = USA
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "We wish to maintain our bonds to the British Empire by establishing an American Parliament."
+		prestige = 10
+		government = prussian_constitutionalism
+		relation = {
+			who = ENG
+			value = 100
+		}
+    }
+	option = {
+        name = "Our people wish to be entirely free!"
+		prestige = 25
+		government = democracy
+		nationalvalue = nv_liberty
+		ENG = {
+			country_event = {id = 55005}
+		}
+    }
+}
+
+country_event = {
+	id = 55005
+	title = "America Severs Royal Ties"
+	desc = "Our American colony has spat in the face of our monarchy by forming a republic and denying the crown's ownership over its lands. Will our nation stand for this?"
+	picture = "autocracy"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "Allow their independence."
+		prestige = -10
+		relation = {
+			who = USA
+			value = 100
+		}
+	}
+	option = {
+		name = "We will not stand for this!"
+		prestige = 10
+		war = {
+			target = USA
+			attacker_goal = {casus_belli = humiliate}
+			attacker_goal = {casus_belli = make_puppet}
+			defender_goal = {casus_belli = status_quo}
+			call_ally = no
+		}
+	}
+}
