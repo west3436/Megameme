@@ -115,4 +115,37 @@ manifest_destiny = {
             }
         }
     }
+    sell_florida = {
+        picture = florida
+        potential = {
+            NOT = { has_country_flag = florida_purchase_started }
+            NOT = { has_global_flag = florida_purchase_completed }
+            tag = SPA
+            #year = 1860
+            USA = { NOT = { war_with = MEX } }
+        }
+
+        allow = {
+            war = no
+			is_our_vassal = X19
+        }
+
+        effect = {
+            set_country_flag = florida_purchase_started
+            prestige = 5
+            any_country = {
+                limit = {
+                    NOT = { tag = SPA }
+                    OR = {
+						tag = MEX
+						tag = USA
+					}
+                }
+                set_country_flag = florida_purchase_interest
+            }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
 }
