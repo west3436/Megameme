@@ -1,0 +1,118 @@
+political_decisions = {
+	enact_the_homestead_act = {
+		potential = {
+			tag = USA
+			government = democracy
+			NOT = {
+				has_country_modifier = the_homestead_act
+			}
+			year = 1862
+		}
+		
+		allow = {
+			prestige = 40
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = the_homestead_act
+				duration = -1
+			}
+		}
+	}
+
+manifest_destiny = {
+        potential = {
+            tag = USA
+            is_greater_power = yes
+            NOT = { has_country_flag = hasmanifestdestiny }
+        }
+        allow = {
+            war = no
+            idealism = 1
+            state_n_government = 1
+            NOT = { truce_with = MEX }
+            NOT = { war_policy = pacifism }
+            NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
+            OR = {
+                TEX = { in_sphere = THIS }
+                TEX = { exists = no }
+                any_owned_province = { is_core = MEX }
+                invention = manifest_destiny
+            }
+        }
+        effect = {
+            set_country_flag = hasmanifestdestiny
+            random_list = {
+                25 = { }
+                25 = { badboy = 1 }
+                25 = { badboy = 2 }
+                25 = { badboy = 3 }
+            }
+			66 = {add_core = USA}
+			67 = {add_core = USA}
+			68 = {add_core = USA}
+			69 = {add_core = USA}
+			70 = {add_core = USA}
+			71 = {add_core = USA}
+			72 = {add_core = USA}
+			73 = {add_core = USA}
+			103 = {add_core = USA}
+			105 = {add_core = USA}
+			106 = {add_core = USA}
+			109 = {add_core = USA}
+			125 = {add_core = USA}
+			127 = {add_core = USA}
+			128 = {add_core = USA}
+			129 = {add_core = USA}
+			131 = {add_core = USA}
+			132 = {add_core = USA}
+			133 = {add_core = USA}
+			134 = {add_core = USA}
+			135 = {add_core = USA}
+			136 = {add_core = USA}
+			137 = {add_core = USA}
+			138 = {add_core = USA}
+			139 = {add_core = USA}
+			141 = {add_core = USA}
+			143 = {add_core = USA}
+			144 = {add_core = USA}
+			159 = {add_core = USA}
+			163 = {add_core = USA}
+			164 = {add_core = USA}
+			173 = {add_core = USA}
+			174 = {add_core = USA}
+			175 = {add_core = USA}
+			176 = {add_core = USA}
+			198 = {add_core = USA}
+			199 = {add_core = USA}
+			200 = {add_core = USA}
+			241 = {add_core = USA}
+			242 = {add_core = USA}
+			243 = {add_core = USA}
+			244 = {add_core = USA}
+			245 = {add_core = USA}
+			246 = {add_core = USA}
+			247 = {add_core = USA}
+			248 = {add_core = USA}
+			249 = {add_core = USA}
+			250 = {add_core = USA}
+            relation = { who = MEX value = -200 }
+            relation = { who = QUE value = -200 }
+            relation = { who = X16 value = -200 }
+            diplomatic_influence = { who = MEX value = -200 }
+            diplomatic_influence = { who = QUE value = -200 }
+            diplomatic_influence = { who = X16 value = -200 }
+            leave_alliance = MEX
+            leave_alliance = QUE
+            leave_alliance = X16
+            any_pop = {
+                dominant_issue = {
+                    factor = 0.05
+                    value = jingoism
+                }
+                consciousness = 2
+            }
+        }
+    }
+}
