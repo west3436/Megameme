@@ -59,9 +59,19 @@ country_event = {
     }
 
     option = {
-        name = "Establish the American Parliament!"
+        name = "We wish to maintain our bonds to the British Empire by establishing an American Parliament."
 		prestige = 10
 		government = prussian_constitutionalism
+		relation = {
+			who = ENG
+			value = 100
+		}
+    }
+	option = {
+        name = "Our people wish to be entirely free!"
+		prestige = 25
+		government = democracy
+		nationalvalue = nv_liberty
 		ENG = {
 			country_event = {id = 55005}
 		}
@@ -70,8 +80,8 @@ country_event = {
 
 country_event = {
 	id = 55005
-	title = "American Autonomy"
-	desc = "Our American colony has declared full autonomy from our nation with the recent establishment of a parliament. Will our nation stand for this?"
+	title = "America Severs Royal Ties"
+	desc = "Our American colony has spat in the face of our monarchy by forming a republic and denying the crown's ownership over its lands. Will our nation stand for this?"
 	picture = "autocracy"
 
 	is_triggered_only = yes
