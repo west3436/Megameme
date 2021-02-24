@@ -52,6 +52,9 @@ country_event = {
     trigger = {
 		is_greater_power = yes
         tag = USA
+		NOT = {
+			has_country_flag = american_independence
+		}
     }
 
     mean_time_to_happen = {
@@ -66,6 +69,7 @@ country_event = {
 			who = ENG
 			value = 100
 		}
+		set_country_flag = american_independence
     }
 	option = {
         name = "Our people wish to be entirely free!"
@@ -75,6 +79,7 @@ country_event = {
 		ENG = {
 			country_event = {id = 55005}
 		}
+		set_country_flag = american_independence
     }
 }
 
