@@ -5,11 +5,11 @@ political_decisions = {
         potential = {
             ai = no
             NOT = { has_global_flag = looking_through_options }
-            NOT = { year = 1837 }
+            NOT = { year = 1821 }
         }
 
         allow = {
-            NOT = { year = 1837 }
+            NOT = { year = 1821 }
         }
 
         effect = {
@@ -27,7 +27,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 1821 }
         }
 
         allow = {
