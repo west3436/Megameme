@@ -1155,6 +1155,7 @@ country_event = {
             tag = KTI
             tag = SLW
             tag = JAV
+            tag = CAM
         }
     }
 
