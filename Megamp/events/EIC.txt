@@ -1179,12 +1179,14 @@ country_event = {
             primary_culture = malayalam
             primary_culture = tamil
             primary_culture = telegu
+            primary_culture = asian_minor
+            primary_culture = avadhi
             tag = CRL
         }
     }
 
     mean_time_to_happen = {
-        months = 500
+        months = 250
         modifier = {
             factor = 1.5
             NOT = { average_militancy = 1 }
