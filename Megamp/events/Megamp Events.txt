@@ -469,6 +469,10 @@ country_event = {
             relation = { who = THIS value = -100 }
             leave_alliance = THIS
         }
+		
+		relation = {
+		who = PRU
+		value = 400
     }
 }
 country_event = {
@@ -589,5 +593,7 @@ country_event = {
 		add_core=636
 		add_core=638
 		add_core=637
+		add_accepted_culture = czech
+		add_accepted_culture = slovak
     }
 }
