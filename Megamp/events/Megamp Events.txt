@@ -111,3 +111,489 @@ country_event = {
 		}
 	}
 }
+country_event = {
+    id = 55006
+    title = "Fryderyk Chopin"
+    desc = "Fryderyk Chopin has become one of the greatest pianists in the world, his compositions have become the talk of artists and connoisseurs across all of Europe. His efforts have brought great fame and artistic recognition to the Commonwealth!"
+    picture = "Mozart"
+    news = no
+
+    trigger = {
+        tag = PLC
+        year = 1840
+        war = no
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 5
+
+    }
+
+    option = {
+        name = "Truly our people and culture are great."
+        prestige = 8
+    }
+}
+country_event = {
+    id = 55007
+    title = "The King is Ill"
+    desc = "King August Jagiellon has fallen ill with pneumonia, this coupled with his age has many in court worried if his death will come soon. Some preparations are already under way for the ascension of his heir, Jan Zygmunt Jagiellon, should the need arise."
+    picture = "alfonso_xii_bourbon"
+    news = no
+
+    trigger = {
+        tag = PLC
+        year = 1845
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 1
+
+    }
+
+    option = {
+        name = "Pray for his health."
+    }
+}
+country_event = {
+    id = 55008
+    title = "Prince Jan returns from Berlin"
+    desc = "Our Prince, Jan Jagiellon, has returned from his studies abroad in Prussia on the insistence of his Father. He speaks of the many experiences and people he met while abroad, but more than anything he was most excited and troubled by the political instability facing the Prussian people, the so called 'republicans' seeking a move away from the monarchy."
+    picture = "alfonso_xii_bourbon"
+    news = no
+
+    trigger = {
+        tag = PLC
+        year = 1845
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 1
+
+    }
+
+    option = {
+        name = "Bah, those Prussians should keep their people in line."
+    }
+}
+country_event = {
+    id = 55008
+    title = "Prince Jan tours the Commonwealth."
+    desc = "After his return home from abroad, Prince Jan has decided to take a tour across the Commonwealth for a few months to meet with his future subjects across Poland, Lithuania, Belarus, and Ukraine so as to better understand his future subjects. Perhaps he has the makings of a benevelont ruler?"
+    picture = "alfonso_xii_bourbon"
+    news = no
+
+    trigger = {
+        tag = PLC
+		war = no
+        year = 1845
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 1
+
+    }
+
+    option = {
+        name = "Safe travels!"
+		any_pop = {
+            limit = {
+                location = { is_core = PLC }
+            }
+            scaled_militancy = {
+                ideology = conservative
+                factor = -1
+            }
+            scaled_militancy = {
+                ideology = liberal
+                factor = -1
+            }
+            scaled_militancy = {
+                ideology = socialist
+                factor = -1
+            }
+        }
+    }
+}
+
+country_event = {
+    id = 55007
+    title = "The King is dead."
+    desc = "Our king is dead, he has succumb to his bouts of illnesses and age. Now it is time for his son Jan to take the throne, and whatever that will bring with it."
+    picture = "alfonso_xii_bourbon"
+    news = no
+
+    trigger = {
+        tag = PLC
+        year = 1846
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 1
+
+    }
+
+    option = {
+        name = "All of the Commonwealth mourns."
+    }
+}
+
+country_event = {
+    id = 55008
+    title = "King Jan shocks the nation."
+    desc = "In a total shock to the nobility and the commoners of our nation, King Jan has declared that he is abdicating total power away from the royal family and other nobility, and imposing a new republican government meant to better represent all of the Commonwealth. He gave a grand speech in Warsaw espousing the views of infamous republican Karl Marx that Jan had spent time with in Berlin. The various nobility in The Commonwealth are enraged, but many are overjoyed with this change. Jan ended his remarks by announcing he will be acting as interim Prime Minister until elections are held, and most importantly, announcing the new name of our great nation. Zapadoslavia."
+    picture = "polish_constitution"
+    news = no
+
+    trigger = {
+        tag = PLC
+		year=1847
+		    OR = {
+            government = hms_government
+            government = absolute_monarchy 
+            government = prussian_constitutionalism 
+        }
+
+        OR = {
+            has_country_modifier = springtime_of_nations
+            has_country_flag = liberal_revolution_in_progress
+        }
+        OR = {
+            AND = {
+                average_militancy = 4
+                has_country_modifier = springtime_of_nations
+            }
+            AND = {
+                average_militancy = 6
+                NOT = { has_country_modifier = springtime_of_nations }
+            }
+            any_owned_province = {
+                is_capital = yes
+                controlled_by = REB
+            }
+            revolt_percentage = 0.50
+        }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 24
+		        modifier = {
+            factor = 0.7
+            has_country_modifier = springtime_of_nations
+        }
+		        modifier = {
+            factor = 0.1
+			country=PRU
+            government=democracy;
+        }
+        modifier = {
+            factor = 1.5
+            NOT = { has_country_modifier = springtime_of_nations }
+        }
+        modifier = {
+            factor = 0.1
+            capital_scope = { controlled_by = REB }
+        }
+        modifier = {
+            factor = 0.8
+            average_militancy = 6
+        }
+        modifier = {
+            factor = 0.8
+            average_militancy = 7
+        }
+        modifier = {
+            factor = 0.8
+            average_militancy = 8
+        }
+        modifier = {
+            factor = 0.8
+            average_militancy = 9
+        }
+        modifier = {
+            factor = 0.6
+            revolt_percentage = 0.60
+        }
+        modifier = {
+            factor = 0.6
+            revolt_percentage = 0.70
+        }
+        modifier = {
+            factor = 0.6
+            revolt_percentage = 0.80
+        }
+    }
+    immediate = {
+        clr_country_flag = liberal_revolution_fired
+        clr_country_flag = liberal_revolution_in_progress
+        set_country_flag = had_liberal_revolution
+    option = {
+        name = "Podnieś flagę Zapadoslavii!"
+		prestige = -20
+		        any_owned = {
+            remove_province_modifier = liberal_agitation
+        }
+        remove_country_modifier = springtime_of_nations
+        remove_country_modifier = global_liberal_agitation
+        random_owned = {
+            limit = {
+                is_capital = yes
+                controlled_by_rebels = yes
+            }
+            change_controller = PLC
+        }
+
+        government = democracy
+        ruling_party_ideology = liberal
+
+        political_reform = universal_weighted_voting 
+        political_reform = gerrymandering
+        political_reform = yes_meeting
+        political_reform = free_press
+        political_reform = debtors_prisons 
+        political_reform = no_slavery 
+        political_reform = child_labor_restricted 
+
+        clr_country_flag = election_started
+        clr_country_flag = conservative_party_in_power
+        clr_country_flag = liberal_party_in_power
+        clr_country_flag = reactionary_party_in_power
+        clr_country_flag = socialist_party_in_power
+        clr_country_flag = communist_party_in_power
+        clr_country_flag = fascist_party_in_power
+        clr_country_flag = anarcho_liberal_party_in_power
+
+
+        random_owned = {
+            limit = {
+                owner = { NOT = { political_parties = secret_ballots } }
+            }
+            owner = { political_reform = non_secret_ballots }
+        }
+        random_owned = {
+            limit = {
+                owner = { NOT = { trade_unions = all_trade_unions } }
+            }
+            owner = { political_reform = non_socialist }
+        }
+        add_country_modifier = {
+            name = power_vacuum
+            duration = 1095
+        }
+        any_pop = {
+            limit = {
+                is_primary_culture = yes
+                OR = {
+                    type = soldiers
+                    type = officers
+                }
+            }
+            ideology = { factor = 0.3 value = conservative }
+            ideology = { factor = 0.1 value = reactionary }
+            dominant_issue = { factor = 0.20 value = jingoism }
+        }
+        any_pop = {
+            limit = {
+                strata = poor
+                is_culture_group = PLC
+				accepted_culture = ukrainian
+				accepted_culture = lithuanian
+				accepted_culture = bylorussian
+                location = { is_core = PLC }
+            }
+            ideology = { factor = 0.2 value = conservative }
+            dominant_issue = { factor = 0.10 value = jingoism }
+        }
+        any_pop = {
+            limit = {
+                location = { is_core = PLC }
+            }
+            scaled_militancy = {
+                ideology = reactionary
+                factor = 4
+            }
+            scaled_militancy = {
+                ideology = conservative
+                factor = -6
+            }
+            scaled_militancy = {
+                ideology = liberal
+                factor = -6
+            }
+            scaled_militancy = {
+                ideology = socialist
+                factor = -2
+            }
+        }
+        any_country = {
+            limit = {
+                OR = {
+                    has_country_flag = liberal_revolution_in_progress
+                    has_country_modifier = springtime_of_nations
+                }
+                NOT = { is_culture_group = scandinavian }
+                NOT = { government = democracy }
+                NOT = { government = hms_government }
+            }
+            any_pop = {
+                scaled_militancy = {
+                    ideology = liberal
+                    factor = 4
+                }
+            }
+        }
+
+
+        
+        any_country = {
+            limit = {
+                alliance_with = THIS
+                NOT = {
+                    vassal_of = THIS
+                    substate_of = THIS
+                    in_sphere = THIS
+                }
+            }
+            relation = { who = THIS value = -100 }
+            leave_alliance = THIS
+        }
+		
+		relation = {
+		who = PRU
+		value = 400
+    }
+}
+country_event = {
+    id = 55009
+    title = "Freedom for our brothers!"
+    desc = "Too long have our fellow slav brothers been under the heel of oppression by foreign powers. No more! It's time we free them."
+    picture = "polish_constitution"
+    news = no
+
+    trigger = {
+        tag = PLC
+        nationalism_n_imperialism = 1
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 6
+
+    }
+
+    option = {
+        name = "Zapadoslavia ponownie się zjednoczy!"
+		add_core=351
+		add_core=349
+		add_core=350
+		add_core=352
+		add_core=355
+		add_core=354
+		add_core=358
+		add_core=359
+		add_core=357
+		add_core=356
+		add_core=353
+		add_core=965
+		add_core=973
+		add_core=978
+		add_core=980
+		add_core=1018
+		add_core=977
+		add_core=999
+		add_core=977
+		add_core=676
+		add_core=678
+		add_core=671
+		add_core=672
+		add_core=670
+		add_core=673
+		add_core=950
+    }
+}
+country_event = {
+    id = 55010
+    title = "An explosive discovery!"
+    desc = "During construction of new railroads in Kielce, a large explosion has occured, which thankfully only killed a few workmen. However, despite this tragedy, during the blasting of large swathes of rock to clear the way for rails, its been been discovered there are large deposits of Sulfur hidden throughout the area!"
+    picture = "panama_canal_finished"
+    news = no
+
+    trigger = {
+        tag = PLC
+        inorganic_chemistry = 1
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 6
+
+    }
+
+    option = {
+        name = "A great discovery for our people!"
+		716={
+		trade_goods = sulfur
+		}
+    }
+}
+country_event = {
+    id = 55011
+    title = "It's not enough!"
+    desc = "Even more of our slavic brethren are held under the vice of foreigners, we will not let this continue! All of slavkind will be united!"
+    picture = "polish_constitution"
+    news = no
+
+    trigger = {
+        tag = PLC
+        revolution_n_counterrevolution = 1
+		OR = {
+		government = absolute_monarchy
+		government = communist
+		government = fascist
+		}
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 6
+
+    }
+
+    option = {
+        name = "Wszyscy Słowianie pod jednym sztandarem!"
+		add_core=628
+		add_core=627
+		add_core=629
+		add_core=625
+		add_core=630
+		add_core=626
+		add_core=631
+		add_core=632
+		add_core=688
+		add_core=689
+		add_core=2584
+		add_core=634
+		add_core=633
+		add_core=635
+		add_core=636
+		add_core=638
+		add_core=637
+		add_accepted_culture = czech
+		add_accepted_culture = slovak
+    }
+}
