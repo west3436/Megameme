@@ -2262,6 +2262,7 @@ country_event = {
             tag = SPC
             }
         owns = 1689
+		year = 1840
         OR = {
             government = hms_government
             government = absolute_monarchy
