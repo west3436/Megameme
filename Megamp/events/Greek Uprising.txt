@@ -1,0 +1,477 @@
+#The January Uprising
+country_event = {
+    id = 500001
+    title = "EVTNAME500001"
+    desc = "EVTDESC500001"
+    picture = "january_uprising"
+
+    fire_only_once = yes
+
+    trigger = {
+        NOT = { has_global_flag = january_uprising_happened }
+        year = 1850
+        owns = 834
+        NOT = { accepted_culture = greek }
+        OR = {
+            GRE = { exists = no }
+            is_our_vassal = GRE
+        }
+        OR = {
+            war_exhaustion = 40
+            AND = {
+                has_recently_lost_war = yes
+                any_owned_province = {
+                    pop_majority_culture = greek
+                    OR = {
+                        average_militancy = 2
+                        average_consciousness = 4
+                    }
+                }
+            }
+            AND = {
+                tag = TUR
+                war = no
+            }
+            any_owned_province = {
+                any_core = { primary_culture = greek }
+                OR = {
+                    average_militancy = 4
+                    average_consciousness = 7
+                }
+            }
+        }
+    }
+
+    option = {
+        name = "EVTOPT500001A"
+        set_global_flag = january_uprising_happened
+        set_country_flag = through_january_uprising
+        release = GRE
+        any_owned = {
+            limit = {
+                OR = {
+                    is_core = GRE
+                    any_core = { primary_culture = greek }
+                }
+            }
+            secede_province = GRE
+        }
+        GRE = { all_core = { add_core = TUR } }
+        GRE = {
+            government = presidential_dictatorship
+            ruling_party_ideology = conservative
+            political_reform = none_voting
+            political_reform = party_appointed
+            political_reform = no_meeting
+            political_reform = state_press
+            political_reform = no_trade_unions
+            political_reform = underground_parties
+            political_reform = mandatory_service
+            political_reform = peonage
+            nationalvalue = nv_order
+            leadership = 80
+            treasury = 10000
+
+            define_general = {
+                name = "Nikolaos Calloulis"
+                personality = spirited
+                background = nationalist
+            }
+
+            define_general = {
+                name = "Theocharis Frangatos"
+                personality = stouthearted
+                background = nationalist
+            }
+
+            add_country_modifier = { name = polish_uprising_mobilization duration = 2920 }
+            add_country_modifier = { name = unrecognized_country duration = 1095 }
+
+            any_pop = {
+                limit = {
+                    has_pop_culture = turkish
+                    OR = {
+                        pop_type = bureaucrats
+                        pop_type = soldiers
+                        pop_type = officers
+                        pop_type = aristocrats
+                        pop_type = capitalists
+                    }
+                }
+                reduce_pop = 0.9
+            }
+        }
+
+        war = {
+            target = GRE
+            attacker_goal = { casus_belli = conquest_any }
+            defender_goal = { casus_belli = status_quo }
+        }
+
+        any_owned = {
+            limit = {
+                OR = {
+                    is_core = GRE
+                }
+            }
+            any_pop = {
+                limit = { is_accepted_culture = no }
+                ideology = { factor = 0.1 value = liberal }
+                militancy = 7
+                consciousness = 8
+            }
+        }
+
+        any_country = {
+            limit = {
+                is_greater_power = yes
+                capital_scope = { continent = europe }
+            }
+            country_event = 500002
+        }
+
+        ai_chance = { factor = 100 }
+    }
+
+    option = {
+        name = "EVTOPT500001C"
+        GRE = { any_owned = { remove_core = TUR } }
+        release = GRE
+        prestige = -50
+        ai_chance = { factor = 0 }
+    }
+
+    option = {
+        name = "EVTOPT500001D"
+        set_global_flag = january_uprising_happened
+        set_country_flag = through_january_uprising
+        release = GRE
+        any_owned = {
+            limit = {
+                OR = {
+                    is_core = GRE
+                    pop_majority_culture = greek
+                }
+            }
+            secede_province = GRE
+        }
+        GRE = { all_core = { add_core = TUR } }
+        GRE = {
+            government = presidential_dictatorship
+            ruling_party_ideology = conservative
+            political_reform = none_voting
+            political_reform = party_appointed
+            political_reform = no_meeting
+            political_reform = state_press
+            political_reform = no_trade_unions
+            political_reform = underground_parties
+            political_reform = mandatory_service
+            political_reform = peonage
+            nationalvalue = nv_order
+            leadership = 80
+            treasury = 10000
+
+            define_general = {
+                name = "Nikolaos Calloulis"
+                personality = spirited
+                background = nationalist
+            }
+
+            define_general = {
+                name = "Theocharis Frangatos"
+                personality = stouthearted
+                background = nationalist
+            }
+
+            add_country_modifier = { name = small_country_draft duration = 30 }
+            add_country_modifier = { name = unrecognized_country duration = 1095 }
+
+            any_pop = {
+                limit = {
+                    has_pop_culture = turkish
+                    OR = {
+                        pop_type = bureaucrats
+                        pop_type = soldiers
+                        pop_type = officers
+                        pop_type = aristocrats
+                        pop_type = capitalists
+                    }
+                }
+                reduce_pop = 0.9
+            }
+        }
+
+        war = {
+            target = GRE
+            attacker_goal = { casus_belli = conquest_any }
+            defender_goal = { casus_belli = status_quo }
+        }
+
+        any_owned = {
+            limit = {
+                OR = {
+                    is_core = GRE
+                }
+            }
+            any_pop = {
+                limit = { is_accepted_culture = no }
+                ideology = { factor = 0.1 value = liberal }
+                militancy = 7
+                consciousness = 8
+            }
+        }
+
+        any_country = {
+            limit = {
+                is_greater_power = yes
+                capital_scope = { continent = europe }
+            }
+            country_event = 500002
+        }
+        change_tag_no_core_switch = GRE
+        ai_chance = { factor = 0 }
+    }
+}
+
+#Greek Uprising - Foreign Intervention
+country_event = {
+    id = 500002
+    title = "EVTNAME500002"
+    desc = "EVTDESC500002"
+    picture = "january_uprising"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPT500002A"        #Help the greeks
+        set_country_flag = greek_uprising_voted
+        random_owned = {
+            limit = { owner = { check_variable = { which = owed_cash_money value = 9 } } }
+            owner = { change_variable = { which = owed_cash_money value = 20 } }
+        }
+        random_owned = {
+            limit = { owner = { NOT = { check_variable = { which = owed_cash_money value = 1 } } } }
+            owner = { set_variable = { which = owed_cash_money value = 20 } }
+        }
+        random_owned = {
+            limit = { owner = { NOT = { check_variable = { which = owed_artillery value = 1 } } } }
+            owner = { set_variable = { which = owed_artillery value = 10 } }
+        }
+        random_owned = {
+            limit = { owner = { check_variable = { which = owed_artillery value = 1 } } }
+            owner = { change_variable = { which = owed_artillery value = 10 } }
+        }
+        random_owned = {
+            limit = { owner = { NOT = { check_variable = { which = owed_canned_food value = 1 } } } }
+            owner = { set_variable = { which = owed_canned_food value = 10 } }
+        }
+        random_owned = {
+            limit = { owner = { check_variable = { which = owed_canned_food value = 1 } } }
+            owner = { change_variable = { which = owed_canned_food value = 10 } }
+        }
+        random_owned = {
+            limit = { owner = { NOT = { check_variable = { which = owed_small_arms value = 1 } } } }
+            owner = { set_variable = { which = owed_small_arms value = 10 } }
+        }
+        random_owned = {
+            limit = { owner = { check_variable = { which = owed_small_arms value = 1 } } }
+            owner = { change_variable = { which = owed_small_arms value = 10 } }
+        }
+        random_owned = {
+            limit = { owner = { NOT = { check_variable = { which = owed_ammunition value = 1 } } } }
+            owner = { set_variable = { which = owed_ammunition value = 10 } }
+        }
+        random_owned = {
+            limit = { owner = { check_variable = { which = owed_ammunition value = 1 } } }
+            owner = { change_variable = { which = owed_ammunition value = 10 } }
+        }
+        GRE = {
+            treasury = 20000
+            small_arms = 10
+            ammunition = 10
+            canned_food = 10
+            artillery = 10
+        }
+        create_alliance = GRE
+        leave_alliance = FROM
+        relation = { who = FROM value = -150 }
+        relation = { who = GRE value = 200 }
+        diplomatic_influence = { who = GRE value = 100 }
+        any_pop = {
+            limit = { has_pop_culture = greek }
+            consciousness = 4
+            militancy = -6
+        }
+
+        ai_chance = {
+            factor = 25
+            modifier = { factor = 0 alliance_with = FROM }
+            modifier = { factor = 10 war_with = FROM }
+            modifier = { factor = 2 truce_with = FROM }
+            modifier = {
+                factor = 2
+                NOT = { relation = { who = FROM value = -150 } }
+            }
+            modifier = {
+                factor = 1.5
+                NOT = { relation = { who = FROM value = -100 } }
+            }
+            modifier = {
+                factor = 1.25
+                NOT = { relation = { who = FROM value = -50 } }
+            }
+        }
+    }
+
+    option = {
+        name = "EVTOPT500002B"         #condemn Turkey
+        set_country_flag = greek_uprising_voted
+        relation = { who = FROM value = -50 }
+        relation = { who = GRE value = 50 }
+        any_pop = {
+            limit = { has_pop_culture = greek }
+            consciousness = 7
+            militancy = -1
+        }
+        ai_chance = {
+            factor = 25
+            modifier = { factor = 0 alliance_with = FROM }
+            modifier = {
+                factor = 1.25
+                relation = { who = FROM value = -50 }
+                NOT = { relation = { who = FROM value = 0 } }
+            }
+            modifier = {
+                factor = 1.25
+                relation = { who = FROM value = 0 }
+                NOT = { relation = { who = FROM value = 50 } }
+            }
+        }
+    }
+
+    option = {
+        name = "EVTOPT500002C"        #stay neutral
+        set_country_flag = greek_uprising_voted
+        relation = { who = GRE value = -25 }
+        any_pop = {
+            limit = { has_pop_culture = greek }
+            consciousness = 4
+            militancy = 1
+        }
+        ai_chance = {
+            factor = 25
+            modifier = {
+                factor = 5
+                any_owned_province = { pop_majority_culture = greek }
+            }
+            modifier = {
+                factor = 2
+                relation = { who = FROM value = 50 }
+                NOT = { relation = { who = FROM value = 100 } }
+            }
+        }
+    }
+    option = {
+        name = "EVTOPT500002D"        #support turkey
+        set_country_flag = greek_uprising_voted
+        relation = { who = FROM value = 25 }
+        relation = { who = GRE value = -150 }
+        any_pop = {
+            limit = { has_pop_culture = greek }
+            militancy = 4
+            consciousness = 7
+        }
+        ai_chance = {
+            factor = 25
+            modifier = { factor = 5 alliance_with = FROM }
+            modifier = {
+                factor = 2
+                relation = { who = FROM value = 190 }
+            }
+            modifier = {
+                factor = 2
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 2
+                relation = { who = FROM value = 100 }
+            }
+        }
+    }
+}
+
+country_event = {
+    id = 500003
+    title = "EVTNAME500003" #Greek defeated
+    desc = "EVTDESC500003"
+    picture = "cyprus_convention_result"
+
+    fire_only_once = yes
+
+    trigger = {
+        war = no
+        GRE = { exists = no }
+        owns = 834
+        has_global_flag = january_uprising_happened
+        has_country_flag = through_january_uprising
+    }
+
+    mean_time_to_happen = { days = 5 }
+
+    option = {
+        name = "EVTOPT500003A"  #punish them
+        any_country = {
+            limit = { is_greater_power = yes capital_scope = { continent = europe } NOT = { alliance_with = THIS } }
+            relation = { who = THIS value = -25 }
+        }
+
+        random_owned = {
+            limit = { owner = { tag = TUR } }
+            owner = {
+                GRE = { all_core = { add_core = TUR } }
+            }
+        }
+
+        add_tax_relative_income = 0.05
+
+        706 = { any_pop = { limit = { has_pop_culture = greek pop_type = officers } reduce_pop = 0.7 } }
+        any_owned = {
+            limit = { is_core = GRE }
+            any_pop = {
+                limit = {
+                    has_pop_culture = greek
+                    OR = {
+                        pop_type = officers
+                        pop_type = soldiers
+                    }
+                }
+                reduce_pop = 0.7
+            }
+        }
+
+        any_owned = {
+            limit = { is_core = GRE }
+            any_pop = {
+                limit = { has_pop_culture = greek }
+                random_list = {
+                    25 = { reduce_pop = 0.99 }
+                    25 = { reduce_pop = 0.985 }
+                    25 = { reduce_pop = 0.98 }
+                    25 = { reduce_pop = 0.975 }
+                }
+            }
+        }
+
+        ai_chance = { factor = 95 }
+    }
+
+    option = {
+        name = "EVTOPT500003B"    #be lenient
+        prestige = -30
+        any_pop = {
+            limit = { is_accepted_culture = no }
+            consciousness = 6
+        }
+        ai_chance = { factor = 5 }
+    }
+}
