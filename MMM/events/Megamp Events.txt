@@ -161,9 +161,9 @@ country_event = {
     }
 }
 country_event = {
-    id = 550015
+    id = 55008
     title = "Prince Jan returns from Berlin"
-    desc = "Our Prince, Jan Jagiellon, has returned from his studies abroad in Prussia on the insistence of his Father. He speaks of the many experiences and people he met while abroad, but more than anything he was most excited and troubled by the political instability facing the Prussian people, the so called 'republicans' seeking a move away from the monarchy."
+    desc = "Our Prince, Jan Jagiellon, has returned from his studies abroad in Prussia."
     picture = "alfonso_xii_bourbon"
     news = no
 
@@ -184,9 +184,9 @@ country_event = {
     }
 }
 country_event = {
-    id = 55008
+    id = 55009
     title = "Prince Jan tours the Commonwealth."
-    desc = "After his return home from abroad, Prince Jan has decided to take a tour across the Commonwealth for a few months to meet with his future subjects across Poland, Lithuania, Belarus, and Ukraine so as to better understand his future subjects. Perhaps he has the makings of a benevelont ruler?"
+    desc = "After his return home from abroad, Prince Jan has decided to take a tour across the Commonwealth for a few months to meet with his future subjectsstand his future subjects."
     picture = "alfonso_xii_bourbon"
     news = no
 
@@ -202,31 +202,13 @@ country_event = {
         months = 1
 
     }
-
-    option = {
+	option = {
         name = "Safe travels!"
-		any_pop = {
-            limit = {
-                location = { is_core = PLC }
-            }
-            scaled_militancy = {
-                ideology = conservative
-                factor = -1
-            }
-            scaled_militancy = {
-                ideology = liberal
-                factor = -1
-            }
-            scaled_militancy = {
-                ideology = socialist
-                factor = -1
-            }
-        }
     }
 }
 
 country_event = {
-    id = 155007
+    id = 55010
     title = "The King is dead."
     desc = "Our king is dead, he has succumb to his bouts of illnesses and age. Now it is time for his son Jan to take the throne, and whatever that will bring with it."
     picture = "alfonso_xii_bourbon"
@@ -250,20 +232,15 @@ country_event = {
 }
 
 country_event = {
-    id = 55016
+    id = 55011
     title = "King Jan shocks the nation."
-    desc = "In a total shock to the nobility and the commoners of our nation, King Jan has declared that he is abdicating total power away from the royal family and other nobility, and imposing a new republican government meant to better represent all of the Commonwealth. He gave a grand speech in Warsaw espousing the views of infamous republican Karl Marx that Jan had spent time with in Berlin. The various nobility in The Commonwealth are enraged, but many are overjoyed with this change. Jan ended his remarks by announcing he will be acting as interim Prime Minister until elections are held, and most importantly, announcing the new name of our great nation. Zapadoslavia."
+    desc = "Sneed."
     picture = "polish_constitution"
-    news = no
+    news = nos
 
     trigger = {
         tag = PLC
 		year=1847
-		    OR = {
-            government = hms_government
-            government = absolute_monarchy 
-            government = prussian_constitutionalism 
-        }
 
         OR = {
             has_country_modifier = springtime_of_nations
@@ -340,8 +317,9 @@ country_event = {
         clr_country_flag = liberal_revolution_fired
         clr_country_flag = liberal_revolution_in_progress
         set_country_flag = had_liberal_revolution
+		}
     option = {
-        name = "Podnieś flagę Zapadoslavii!"
+        name = "Sneed."
 		prestige = -20
 		        any_owned = {
             remove_province_modifier = liberal_agitation
@@ -411,7 +389,7 @@ country_event = {
                 is_culture_group = PLC
 				accepted_culture = ukrainian
 				accepted_culture = lithuanian
-				accepted_culture = bylorussian
+				accepted_culture = byelorussian`
                 location = { is_core = PLC }
             }
             ideology = { factor = 0.2 value = conservative }
@@ -470,14 +448,15 @@ country_event = {
             relation = { who = THIS value = -100 }
             leave_alliance = THIS
         }
-		
 		relation = {
 		who = PRU
 		value = 400
     }
+    }
 }
+
 country_event = {
-    id = 55009
+    id = 55012
     title = "Freedom for our brothers!"
     desc = "Too long have our fellow slav brothers been under the heel of oppression by foreign powers. No more! It's time we free them."
     picture = "polish_constitution"
@@ -523,18 +502,21 @@ country_event = {
 		add_core=670
 		add_core=673
 		add_core=950
+		add_core=677
+		add_core=663
     }
 }
 country_event = {
-    id = 55010
+    id = 55013
     title = "An explosive discovery!"
-    desc = "During construction of new railroads in Kielce, a large explosion has occured, which thankfully only killed a few workmen. However, despite this tragedy, during the blasting of large swathes of rock to clear the way for rails, its been been discovered there are large deposits of Sulfur hidden throughout the area!"
+    desc = "Sneed."
     picture = "panama_canal_finished"
     news = no
 
     trigger = {
         tag = PLC
         inorganic_chemistry = 1
+
     }
 
     fire_only_once = yes
@@ -546,13 +528,13 @@ country_event = {
 
     option = {
         name = "A great discovery for our people!"
-		716={
-		trade_goods = sulfur
+		716 = {
+		trade_goods = sulphur
 		}
     }
 }
 country_event = {
-    id = 55011
+    id = 55014
     title = "It's not enough!"
     desc = "Even more of our slavic brethren are held under the vice of foreigners, we will not let this continue! All of slavkind will be united!"
     picture = "polish_constitution"
