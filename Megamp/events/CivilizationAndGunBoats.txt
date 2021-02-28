@@ -3931,6 +3931,7 @@ country_event = {
     option = {
         name = "EVTOPTA13358"
         prestige = 5
+		badboy = 5
         FROM = {
             tech_school = developing_tech_school
             political_reform = peonage
