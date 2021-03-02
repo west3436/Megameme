@@ -545,8 +545,8 @@ country_event = {
         revolution_n_counterrevolution = 1
 		OR = {
 		government = absolute_monarchy
-		government = communist
-		government = fascist
+		government = proletarian_dictatorship
+		government = fascist_dictatorship 
 		}
     }
 
@@ -579,4 +579,58 @@ country_event = {
 		add_accepted_culture = czech
 		add_accepted_culture = slovak
     }
+}
+
+country_event = {
+	id = 986500
+	title = "$FROMCOUNTRY$ Ultimatum"
+	desc = "The $FROMCOUNTRY_ADJ$ government, exercising its power as our overlords, are sending an ultimatum informing us that they are ending local rule and are going to centralize the administration."
+	picture = "young_turks"
+
+	is_triggered_only = yes
+
+	
+	option = {
+		name = "We have no choice but agree."
+		any_pop = {
+			limit = {
+				is_primary_culture = THIS
+				NOT = { has_pop_culture = turkish }
+			}
+			militancy = 2
+			consciousness = 4
+		}
+		SPA = { casus_belli = { target = TUR type = liberate_country months = 60 } }
+		FROM = { inherit = THIS }
+		ai_chance = {
+			factor = 25
+		}
+	}
+	
+	option = {
+		name = "We will fight to the last men for our Independence."
+		prestige = 5
+		leave_alliance = FROM
+		end_military_access = FROM
+		random_country = {
+			limit = { tag = SPA }
+			diplomatic_influence = { who = THIS value = 100 }
+			relation = { who = THIS value = 200 }
+		}
+		relation = { who = FROM value = -400 }
+		FROM = {
+			release_vassal = THIS
+			diplomatic_influence = { who = THIS value = -400 }
+			
+			casus_belli = { target = THIS type = conquest_any months = 30 }
+		
+			war = {
+				target = THIS
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+			}
+		}
+		
+		ai_chance = { factor = 75 }
+	}
 }
