@@ -248,4 +248,58 @@ political_decisions = {
 				}
 			}
 	}
+	
+	end_egyptian_independence = {
+		picture = greater_turkey
+		potential = {
+			tag = TUR
+			NOT = { has_country_flag = egypt_annexed }
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+			}
+			EGY = { 
+				exists = yes
+				vassal_of = THIS
+				neighbour = THIS
+			}
+		}
+		
+		allow = {
+			is_greater_power = yes
+			revolution_n_counterrevolution = 1
+			year = 1880
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+			}
+			OR = {
+				owns = 1745
+				AND = {
+					is_our_vassal = EGY
+					is_sphere_leader_of = EGY
+				}
+			}
+			war = no
+			EGY = { 
+				in_sphere = THIS
+				vassal_of = THIS
+				neighbour = THIS
+			}
+		}
+		
+		effect = {
+			badboy = 5
+			set_country_flag = egypt_annexed
+			EGY = { tech_school = unciv_tech_school country_event = 986500 }
+		}
+		
+		ai_will_do = { 
+		factor = 100
+			modifier = {
+					factor = 0
+					badboy = 0.9
+				}
+			}
+	}
 }
