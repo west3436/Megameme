@@ -1138,7 +1138,7 @@ country_event = {
 
 #Doctrine of Lapse 1/2
 country_event = {
-    id = 9990015
+    id = 13357
     title = "EVTNAME13357"
     desc = "EVTDESC13357"
 
@@ -1148,15 +1148,18 @@ country_event = {
         OR = {
             vassal_of = EIC
             vassal_of = ENG
+			vassal_of = MUG
         }
         ai = yes
         civilized = no
         NOT = { tag = PAK }
+		NOT = {	tag = MUG }
         NOT = { has_country_flag = no_british_doctrine }
         has_global_flag = eic_spawned
         OR = {
             EIC = { ideological_thought = 1 exists = yes }
             ENG = { ideological_thought = 1 exists = yes }
+            MUG = { ideological_thought = 1 exists = yes }
         }
         OR = {
             primary_culture = assamese

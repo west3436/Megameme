@@ -124,6 +124,8 @@ establish_protectorate_BC_casus_belli
 establish_protectorate_NI_casus_belli
 establish_protectorate_casus_belli
 status_quo
+restore_mughalistan
+conquer_mughalistan
 }
 
 # Great War CB's
@@ -10454,6 +10456,244 @@ steal_puppet = {
 
     on_po_accepted = {
         THIS = { set_country_flag = new_overlord }
+    }
+}
+
+restore_mughalistan = {
+	sprite_index = 10
+    is_triggered_only = yes
+    months = 12
+    crisis = no
+
+    badboy_factor = 0
+    prestige_factor = 1
+    peace_cost_factor = 0.8
+    penalty_factor = 2
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 1
+    break_truce_militancy_factor = 1
+    truce_months = 48
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    always = yes
+
+    po_make_puppet = yes
+
+    war_name = WAR_MUGHALISTAN_NAME
+
+    can_use = {
+        OR = {
+            NOT = { has_country_modifier = war_focus }
+            THIS = {
+                NOT = {
+                    has_country_flag = exclusive_acquire_all_cores_CB
+                    has_country_flag = exclusive_humiliate_CB
+                    has_country_flag = exclusive_liberate_country_CB
+                    has_country_flag = exclusive_make_puppet_CB
+                }
+            }
+        }
+        NOT = { is_our_vassal = THIS }
+        num_of_vassals_no_substates = 1
+        NOT = { has_country_modifier = neutrality_modifier }
+		THIS = { tag = MUG }
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = neutrality_modifier } }
+        }
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = no_more_war } }
+        }
+        OR = {
+            NOT = { has_country_flag = dismantle_declared }
+            THIS = { NOT = { has_country_flag = in_great_war } }
+            THIS = { ai = no }
+        }
+    }
+
+    # THIS - us
+    # FROM - country scope is possible match?
+    # war target country of goal is scope
+    allowed_countries = {
+        is_our_vassal = FROM
+        FROM = {
+            is_substate = no
+            OR = {
+                neighbour = THIS
+                war_with = THIS
+                any_neighbor_country = {
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                    }
+                }
+            }
+		}
+    }
+
+    po_release_puppet = yes
+    po_add_to_sphere = yes
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.25
+        }
+        any_country = {
+            limit = {
+                exists = yes
+                vassal_of = FROM
+                is_substate = no
+				OR = {
+					tag = ASM
+					tag = AWA
+					tag = BAS
+					tag = BER
+					tag = BIH
+					tag = BIK
+					tag = BHO
+					tag = BNG
+					tag = BUN
+					tag = IND
+					tag = JAI
+					tag = JAS
+					tag = JOD
+					tag = MAH
+					tag = MEW
+					tag = MUG
+					tag = MYS
+					tag = NAG
+					tag = ORI
+					tag = TRA
+					tag = KUT
+					tag = MRT
+					tag = GDW
+					tag = GUJ
+					tag = RJP
+					tag = TRT
+				}
+                OR = {
+                    AND = {
+                        THIS = { total_amount_of_ships = 5 }
+                        any_owned_province = { port = yes }
+                    }
+                    neighbour = THIS
+                    any_neighbor_country = {
+                        OR = {
+                            vassal_of = THIS
+                            substate_of = THIS
+                        }
+                    }
+                }
+            }
+            set_country_flag = transfer_to_new_overlord
+        }
+    }
+
+    on_po_accepted = {
+        THIS = { set_country_flag = new_overlord }
+    }
+}
+
+conquer_mughalistan = {
+    sprite_index = 10
+    is_triggered_only = yes
+    months = 12
+    crisis = no
+
+    badboy_factor = 0
+    prestige_factor = 1
+    peace_cost_factor = 0.8
+    penalty_factor = 2
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 1
+    break_truce_militancy_factor = 1
+    truce_months = 48
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    always = yes
+
+    po_make_puppet = yes
+
+    war_name = WAR_MUGHALISTAN_NAME
+
+    can_use = {
+        is_vassal = no
+        is_disarmed = no
+        civilized = no
+        NOT = {
+            is_our_vassal = THIS
+            truce_with = THIS
+            tag = HND
+            has_country_modifier = neutrality_modifier
+        }
+        OR = {
+            tag = ASM
+            tag = AWA
+            tag = BAS
+            tag = BER
+            tag = BIH
+            tag = BIK
+            tag = BHO
+            tag = BNG
+            tag = BUN
+            tag = IND
+            tag = JAI
+            tag = JAS
+            tag = JOD
+            tag = MAH
+            tag = MEW
+            tag = MUG
+            tag = MYS
+            tag = NAG
+            tag = ORI
+            tag = TRA
+            tag = KUT
+            tag = MRT
+            tag = GDW
+            tag = GUJ
+            tag = RJP
+            tag = TRT
+        }
+        THIS = {
+            tag = MUG
+            OR = {
+                government = absolute_monarchy
+                government = prussian_constitutionalism
+                government = hms_government
+            }
+            NOT = { has_country_modifier = neutrality_modifier }
+        }
+        OR = {
+            war_with = THIS
+            THIS = {
+                NOT = {
+                    has_country_modifier = no_more_war
+                }
+            }
+        }
+    }
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.25
+        }
+    }
+
+    on_po_accepted = {
+        country_event = 19370
     }
 }
 
