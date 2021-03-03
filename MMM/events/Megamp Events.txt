@@ -634,3 +634,27 @@ country_event = {
 		ai_chance = { factor = 75 }
 	}
 }
+
+country_event = {
+	id = 555555
+	title = "Japanese Enlightenment"
+	desc = "The era of Japanese Intellectuals is upon us."
+	picture = "tonghak_rebellion"
+
+	trigger = 
+	{
+		ai = no
+		primary_culture = japanese
+		NOT = { has_country_flag = japanese_enlightenment }
+	}
+	
+	option = {
+		name = "The Japanese will prevail!"
+		add_country_modifier = {
+			name = total_reform
+			duration = 7300
+		}
+		THIS = { set_country_flag = japanese_enlightenment }
+		}
+	}
+}
